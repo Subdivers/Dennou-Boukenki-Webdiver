@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5b72b6ec3aedf1839abe54a4ff07f5da",
+    "packages": [
+        {
+            "name": "chaostangent/php-ass",
+            "version": "v1.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johnnoel/php-ass.git",
+                "reference": "ddf41b80515a70728ff31c4defbc84afa543ed2d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johnnoel/php-ass/zipball/ddf41b80515a70728ff31c4defbc84afa543ed2d",
+                "reference": "ddf41b80515a70728ff31c4defbc84afa543ed2d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Creative Commons Attribution-ShareAlike 3.0"
+            ],
+            "authors": [
+                {
+                    "name": "John Noel",
+                    "email": "john.noel@chaostangent.com"
+                }
+            ],
+            "description": "A library for reading Advanced Sub Station Alpha subtitle files",
+            "homepage": "http://github.com/johnnoel/php-ass",
+            "keywords": [
+                "ass",
+                "mkv",
+                "mp4",
+                "ssa",
+                "subtitle",
+                "subtitles"
+            ],
+            "time": "2015-08-29T10:42:41+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
