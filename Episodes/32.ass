@@ -1,0 +1,972 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 480
+YCbCr Matrix: TV.601
+Video Aspect Ratio: c1.33333
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ..\Dennou Boukenki Webdiver - Episode 32.mp4
+Video File: ..\Dennou Boukenki Webdiver - Episode 32.mp4
+Video AR Value: 1.333333
+Video Zoom Percent: 0.75
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AccessFailed,Malgun Gothic,36,&H0012D1D6,&H000000FF,&H96035716,&H96035716,-1,0,0,0,100,100,5,0,1,2,0,5,10,10,10,1
+Style: EndBg,Arial,20,&H00D0EAF8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,0,0,7,0,0,0,1
+Style: Countdown,Eurostile LT Std Bold,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: CreditOP,candara,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: CreditED,candara,24,&H00FFFFFF,&H00FFFFFF,&H00116DA8,&H400B446C,-1,0,0,0,100,100,0,0,1,1,2,7,10,10,10,1
+Style: Default,Candara,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Diver2100Rm,MV Boli,44,&H00FFFFFF,&H00B94918,&H00230408,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
+Style: Diver2100RmIns,MV Boli,32,&H00FFFFFF,&H00B94918,&H00230408,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,40,1
+Style: Diver2100TitleOverride,Eurostile LT Std Bold,28,&H00FFFFFF,&H000000FF,&H00393B02,&H00393B02,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Diver2100Tr,Register Demi Bold,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Diver2100TrIns,Register Demi Bold,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: FightersRm-1,Orbit-B BT,32,&H004FD5FF,&H00008FFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: FightersRm-2,Orbit-B BT,32,&H003643F4,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: FightersRm-3,Orbit-B BT,32,&H00A7D6A5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: FightersRm-4,Orbit-B BT,32,&H00DAA89F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: FightersRm-Ins,Orbit-B BT,28,&H00DAA89F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: FightersTr,Berlin Sans FB,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: GladionShout-R,Buxton Sketch,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,6,10,20,80,1
+Style: GladionSing,Register Demi Bold,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: GladionSing-R,Buxton Sketch,32,&H003BEBFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,10,10,40,1
+Style: GladionSing-R2,Buxton Sketch,32,&H004AC38B,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,10,10,40,1
+Style: GladionSing-R3,Buxton Sketch,32,&H00F5A542,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,7,10,10,40,1
+Style: NextEpisode,Cabin Condensed,64,&H0079F378,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Note,Candara,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: NoteAnime,Cabin Condensed,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: Script,Meiryo UI,32,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: SoDive-R,LilyUPC,36,&H00A11658,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: SUA,Gisha,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,7,10,10,10,1
+Style: SYNC,HY얕은샘물M,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,10,10,40,1
+Style: StayTunedForNextEpisode,Berlin Sans FB,48,&H00000000,&H000000FF,&H00C2D7E8,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,10,10,10,1
+Style: SubCredits,Candara,32,&H00FFFFFF,&H000000FF,&HC8000000,&H00619DEB,-1,0,0,0,100,100,0,0,1,1,3,2,10,10,10,1
+Style: SyncTr,Gisha,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
+Style: Thx4Watching,Chaparral Pro,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,10,10,3,1
+Style: TitleCard,Cambria,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: TogetherRm,Cambria,36,&H006EB7EA,&H006EB7EA,&H00116DA8,&H400B446C,0,0,0,0,100,100,0,0,1,1,2,5,10,10,10,1
+Style: TogetherRmIns,Cambria,24,&H006EB7EA,&H006EB7EA,&H00116DA8,&H400B446C,0,0,0,0,100,100,0,0,1,1,2,7,10,10,40,1
+Style: TogetherTr,Gisha,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: TogetherTrIns,Gisha,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Diver2100RmIns,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord4\1cED9D7A\3a00)\t($start,!$start+1!,\bord4\1cED9D7A\3a00)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:00:00.00,0:00:00.00,Diver2100Rm,,0,0,0,template line keeptags,{\pos(320,30)\r\t(!$start-40!,$start,0.3,\bord4\1cED9D7A\3a00)\t($start,$start,\1aff\2aff\3aff\4aff)\t($start,!$start+1!,\1aff\2aff\3aff\4aff)\t($mid,$end,\1a00\2a00\3a00\4a00)\t($end,$end,\1cED9D7A)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:00:20.63,0:00:27.39,Diver2100Rm,,0,0,0,template line keeptags,{\pos(320,30)\r\c00FFFF\1aff\2aff\3aff\4aff\fs44\shad0\t($start,!$start+1!,\bord4\1a00\2a00\3a00\4a00\blur0\fs44)\t($start,$end,\fs!44+math.min(30,($end-$start)/100)!)\t($start,$end,1.4,\blur!2+($end-$start)/200!)\t($mid,$end,\1aff\2aff\3aff\4aff)\t($end,!$end+1!,\fs44\bord2\1aff\2aff\3aff\4aff)}
+Comment: 0,0:00:00.00,0:00:00.00,TogetherRm,,0,0,0,template line keeptags,{\r\pos(320,30)\t(!$start-40!,$start,0.3,\bord5\3a00)\t($start,!$start+1!,\bord5\3a00)\t($start,!($start+$end)*16/100!,)\1aff\2aff\3aff\4aff)\t($mid,$mid,\1cFFFFFF)\t($mid,$end,\1a00\2a00\3a00\4a00)\t($end,!$end+3000!,1,\bord1)}
+Comment: 0,0:22:59.77,0:22:59.77,TogetherRm,,0,0,0,template line keeptags,{\pos(320,30)\r\1aff\2aff\3aff\4aff\fs36\shad0\t($start,!$start+1!,\bord4\1a00\2a00\3a00\4a00\blur0\fs36)\t($start,$end,\fs!36+math.min(24,($end-$start)/150)!)\t($start,$end,1.4,\blur!2+($end-$start)/200!)\t($mid,$end,\1aff\2aff\3aff\4aff)\t($end,!$end+1!,\fs36\bord5\1aff\2aff\3aff\4aff)}
+Comment: 0,0:00:00.00,0:00:00.00,TogetherRmIns,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord3\3a00)\t($start,!$start+1!,\bord3\3a00)\t($start,$end,\1cFFFFFF)\t($end,!$end+3000!,1,\bord1)}
+Comment: 0,0:00:00.00,0:00:00.00,SYNC,,0,0,0,template line keeptags,{\r\alpha80\t(!$start-100!,$start,0.3,\1aFF)}
+Comment: 0,0:00:00.00,0:00:00.00,SYNC,,0,0,0,template line keeptags,{\r\q2\fscx200\3aff\4aff\2aff\1aff\blur25\t(!$start-100!,$start,0.3,\bord4\1cb2ff59\1a70\fscx130)\t($start,$end,0.3,\fscx100\blur0\1a0)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:00:00.00,0:00:00.00,SUAkara,,0,0,0,template line keeptags,{\r\1aa0\2aff\4aff\3a00}
+Comment: 0,0:00:00.00,0:00:00.00,SUAkara,,0,0,0,template line keeptags,{\r\alphac0\t(!$start-100!,$start,0.3,\alpha00)\t($start,$end,0.3,\bord!2+($end-$start)/400!\blur!($end-$start)/100!)\t($end,!$end+400!,1.7,\bord2\blur8\3ae0)}
+Comment: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,テレビを見る時は、
+Comment: 0,0:00:02.00,0:00:05.00,Default,,0,0,0,,部屋を明るくして、離れて見てくれ
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,ko,0,0,0,,TV를 볼 때에는 밝은 방에서 적당히 떨어져서 보도록 해!
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,en,0,0,0,,While you're watching the television...
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,id,0,0,0,,Selama menonton acara ini
+Dialogue: 0,0:00:02.00,0:00:05.00,Default,en,0,0,0,,...be sure to keep your distance and watch in a well-lit room!
+Dialogue: 0,0:00:02.00,0:00:05.00,Default,id,0,0,0,,pastikan berada di jarak yang cukup dan di ruangan yang terang!
+Dialogue: 0,0:00:05.48,0:00:12.06,CreditOP,,0,0,0,,{\fad(400,400)\pos(128,237)\an8}Plan
+Dialogue: 0,0:00:05.48,0:00:12.06,CreditOP,,0,0,0,,{\fad(400,400)\pos(425,237)\an8}Webdiver Production Committee
+Dialogue: 0,0:00:14.71,0:00:18.33,CreditOP,,0,0,0,,{\fad(400,400)\pos(128,236)\an8}Original Plan
+Dialogue: 0,0:00:14.71,0:00:18.33,CreditOP,,0,0,0,,{\fad(400,400)\pos(340,236)\an8}Ishikawa Hiroto
+Dialogue: 0,0:00:27.26,0:00:29.70,CreditOP,,0,0,0,,{\fad(400,0)\pos(57,204)}Series Composition
+Dialogue: 0,0:00:27.26,0:00:29.70,CreditOP,,0,0,0,,{\fad(400,0)\pos(57,267)}Chief Director
+Dialogue: 0,0:00:27.26,0:00:29.70,CreditOP,,0,0,0,,{\fad(400,0)\pos(271,204)}Sekijima Mayori
+Dialogue: 0,0:00:27.26,0:00:29.70,CreditOP,,0,0,0,,{\fad(400,0)\pos(271,267)}Okajima Kunitoshi
+Dialogue: 0,0:00:30.91,0:00:33.98,CreditOP,,0,0,0,,{\fad(400,400)\pos(143,235)\an8}Character Design
+Dialogue: 0,0:00:30.91,0:00:33.98,CreditOP,,0,0,0,,{\fad(400,400)\pos(341,235)\an8}Takahashi Naruyo
+Dialogue: 0,0:00:44.76,0:00:47.66,CreditOP,,0,0,0,,{\fad(400,400)\pos(66,203)}Concept Design
+Dialogue: 0,0:00:44.76,0:00:47.66,CreditOP,,0,0,0,,{\fad(400,400)\pos(66,266)}Color Scheme
+Dialogue: 0,0:00:44.76,0:00:47.66,CreditOP,,0,0,0,,{\fad(400,400)\pos(266,203)}Moriki Yasuhiro
+Dialogue: 0,0:00:44.76,0:00:47.66,CreditOP,,0,0,0,,{\fad(400,400)\pos(266,266)}Kawami Takuya
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(66,172)}Production Designer
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(66,237)}Director of Audiography
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(66,299)}Composite Director
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(334,172)}Iwase Eiji
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(334,237)}Tanaka Hideyuki
+Dialogue: 0,0:00:51.53,0:00:54.10,CreditOP,,0,0,0,,{\fad(400,400)\pos(334,299)}Nagaushi Yutaka
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(56,163)}Music
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(56,233)}Music Producer
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(56,338)}Music Collaboration
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(316,163)}Hayashi Yuzo
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(316,233)}Kumada Kazuo
+Dialogue: 0,0:00:58.54,0:01:01.51,CreditOP,,0,0,0,,{\fad(400,400)\pos(266,338)}Television Tokyo Music
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(53,110)}Opening Theme
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(66,211)}Lyrics
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(66,258)}Composer/Arrangement
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(275,211)}Oikawa Neko
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(275,258)}Hirama Akihiko
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(66,310)}Song
+Dialogue: 0,0:01:09.95,0:01:12.60,CreditOP,,0,0,0,,{\fad(400,0)\pos(301,366)}Columbia Japan
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(57,105)}Production Collaboration
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(57,165)}Animation Production
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(57,280)}Animation Producer
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(334,105)}AEON (We've)
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(334,284)}Kachihide Yuki
+Dialogue: 0,0:01:12.60,0:01:15.72,CreditOP,,0,0,0,,{\fad(0,400)\pos(334,335)}Nomura Hiroshi
+Dialogue: 0,0:01:18.66,0:01:20.93,CreditOP,,0,0,0,,{\fad(400,400)\pos(57,184)}Producer
+Dialogue: 0,0:01:18.66,0:01:20.93,CreditOP,,0,0,0,,{\fad(400,400)\pos(271,184)}Iwata Makiko (TV Tokyo)
+Dialogue: 0,0:01:18.66,0:01:20.93,CreditOP,,0,0,0,,{\fad(400,400)\pos(271,250)}Yamazaki Tatsuji
+Dialogue: 0,0:01:26.43,0:01:31.84,CreditOP,,0,0,0,,{\fad(400,400)\pos(102,248)\an8}Director
+Dialogue: 0,0:01:26.43,0:01:31.84,CreditOP,,0,0,0,,{\fad(400,400)\pos(363,248)\an8}Negishi Hiroshi
+Dialogue: 0,0:01:33.34,0:01:35.09,CreditOP,,0,0,0,,{\fad(400,0)\pos(93,253)\an8}Production
+Dialogue: 0,0:00:20.63,0:00:27.39,Diver2100TitleOverride,,0,0,0,,{\pos(210,126)\fade(255,0,255,0,800,5800,6500)\r\t(1098,1098,\3cffffff)\t(1220,1220,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}D{\r\t(1160,1160,\3cffffff)\t(1230,1230,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}e{\r\t(1160,1160,\3cffffff)\t(1290,1290,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}n{\r\t(1230,1230,\3cffffff)\t(1290,1290,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}n{\r\t(1230,1230,\3cffffff)\t(1360,1360,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}o{\r\t(1290,1290,\3cffffff)\t(1360,1360,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}u{\r\t(1290,1290,\3cffffff)\t(1430,1430,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)} B{\r\t(1360,1360,\3cffffff)\t(1430,1430,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}o{\r\t(1360,1360,\3cffffff)\t(1490,1490,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}u{\r\t(1430,1430,\3cffffff)\t(1490,1490,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}k{\r\t(1430,1430,\3cffffff)\t(1530,1530,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}e{\r\t(1490,1490,\3cffffff)\t(1590,1590,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}n{\r\t(1490,1490,\3cffffff)\t(1700,1700,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}k{\r\t(1500,1500,\3cffffff)\t(1700,1700,\3c393b02)\t(2123,2230,\3cFFFFFF\blur5)\t(2420,3250,\3c393B02,\blur0)}i
+Comment: 0,0:00:20.63,0:00:27.26,Diver2100Rm,,0,0,0,karaoke,{\k19}{\fad(445,734)}{\k36}yu{\k30}me {\k23}ni {\k32}yo{\k31}ba{\k22}re {\k159}te… {\k37}na{\k36}mi {\k24}ni {\k29}ma{\k28}ka{\k27}re {\k143}te…
+Comment: 0,0:00:30.68,0:00:34.60,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k30}{\k42}fu{\k32}ka{\k23}i {\k11}KA{\k17}O{\k31}SU {\k28}no {\k13}mo{\k21}ri {\k30}wo {\k20}nu{\k21}ke{\k22}ta{\k39}ra
+Comment: 0,0:00:34.30,0:00:37.97,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k31}ki{\k34}mi {\k24}no {\k10}ko{\k18}ko{\k29}ro {\k21}de {\k16}na{\k21}ni{\k28}ka {\k25}ga {\k20}ka{\k23}wa{\k23}ru
+Comment: 0,0:00:37.67,0:00:42.67,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k71}gin'{\k42}i{\k33}ro {\k32}no {\k33}yo{\k29}a{\k40}ke {\k41}ga {\k25}i{\k154}ma
+Comment: 0,0:00:44.52,0:00:48.28,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k20}{\k26}na{\k28}ga{\k26}i {\k10}ne{\k23}mu{\k19}ri {\k34}wo {\k11}u{\k19}chi{\k29}ku{\k26}da{\k23}ku {\k13}yo{\k8}u {\k37}ni
+Comment: 0,0:00:47.93,0:00:51.60,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k34}ki{\k28}mi {\k28}no {\k9}i{\k18}no{\k30}chi {\k27}ni {\k12}PA{\k13}RU{\k36}SU {\k23}wo {\k22}o{\k22}ku{\k43}ru
+Comment: 0,0:00:51.30,0:00:56.85,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k35}hi{\k27}ta{\k49}su{\k36}ra {\k25}ni {\k32}i{\k32}ki{\k41}ru {\k31}ta{\k36}me {\k189}ni
+Comment: 0,0:00:58.08,0:01:05.24,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k41}ki{\k32}mi {\k24}no {\k34}hi{\k42}to{\k39}mi {\k28}no {\k20}na{\k68}ka {\k22}u{\k30}ma{\k28}re{\k29}ta {\k28}ba{\k33}ka{\k22}ri{\k158}no
+Comment: 0,0:01:04.94,0:01:12.09,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k41}yu{\k54}me {\k80}no {\k33}ka{\k30}ke{\k24}ra {\k80}wo {\k31}tsu{\k31}yo{\k32}sa {\k57}ni {\k25}ka{\k30}e{\k31}te {\k27}yu{\k72}ke
+Comment: 0,0:01:11.79,0:01:15.46,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k22}ji{\k24}da{\k22}i {\k21}ni {\k10}to{\k19}bi{\k30}ko{\k26}mu {\k21}yu{\k18}u{\k23}ki {\k20}no {\k13}D{\k20}I{\k48}VER
+Comment: 0,0:01:15.16,0:01:18.81,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k19}i{\k26}ma {\k21}no {\k23}ku{\k8}ru{\k22}shi{\k32}mi {\k20}ya {\k47}na{\k42}mi{\k40}da {\k30}wo
+Comment: 0,0:01:18.51,0:01:22.21,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k31}o{\k19}yo{\k25}gi{\k21}ki {\k13}re{\k20}ta{\k33}na{\k19}ra {\k23}mi{\k21}ra{\k20}i {\k20}de {\k33}kit{\k41}to
+Comment: 0,0:01:21.91,0:01:25.65,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k35}ki{\k20}mi {\k20}mo {\k34}HI{\k52}RO {\k22}ni {\k39}na{\k46}re{\k36}ru {\k44}sa
+Comment: 0,0:01:25.35,0:01:32.53,Diver2100Rm,,0,0,0,karaoke,{\fad(300,300)}{\k10}{\k43}a{\k27}fu{\k25}re{\k23}ru {\k40}chi{\k21}ka{\k168}ra {\k32}do{\k29}u{\k22}ka {\k62}shin{\k26}ji{\k170}te
+Comment: 0,0:01:32.23,0:01:36.53,Diver2100Rm,,0,0,0,karaoke,{\k10}{\fad(300,300)}{\k34}ka{\k29}ga{\k26}ya{\k20}ku {\k12}ta{\k26}me {\k27}ni {\k13}ta{\k17}bi{\k34}ta{\k20}te {\k23}SOL{\k17}DI{\k126}ER
+Comment: 0,0:00:41.34,0:00:44.26,GladionSing-R,,0,0,0,template line keeptags,{\r\alpha40\t(!$start-100!,$start,\alpha00\blur2\bord1\3c0)\t($start,$end,\1c9df5ff)\t($end,!$end+100!,\bord1\blur0\1cFFFFFF)}
+Comment: 0,0:00:41.34,0:00:44.26,GladionSing-R3,,0,0,0,template line keeptags,{\r\alpha40\t(!$start-100!,$start,\alpha00\blur2\bord1\3c0)\t($start,$end,\1cfbdebb)\t($end,!$end+100!,\bord1\blur0\1cFFFFFF)}
+Comment: 0,0:00:41.34,0:00:44.26,GladionSing-R2,,0,0,0,template line keeptags,{\r\alpha40\t(!$start-100!,$start,\alpha00\blur2\bord1\3c0)\t($start,$end,\1cc8eddc)\t($end,!$end+100!,\bord1\blur0\1cFFFFFF)}
+Comment: 0,0:01:08.72,0:01:10.40,GladionShout-R,,0,0,0,template line keeptags,{\r\fs48\t(0,200,0.3,\fs32)\t(!$ldur-200!,$ldur,1.7,\fs0)}
+Comment: 0,0:01:37.82,0:01:45.15,Default,,0,0,0,,悪のプログラム、デリトロスの手からマジカルゲートを取り戻す為、結城ケントはグラディオンと共に立ち上がった
+Dialogue: 0,0:01:37.82,0:01:45.15,Default,ko,0,0,0,,악의 프로그램 데리트로스의 손에서 매지컬 게이트를 되찾기 위해 유우키 켄토는 글라디온과 함께 일어섰다.
+Dialogue: 0,0:01:37.82,0:01:45.15,Default,en,0,0,0,,To take Magical Gate back from the evil program Deletloss, Yuuki Kento stood up with Gladion.
+Dialogue: 0,0:01:37.82,0:01:45.15,Default,id,0,0,0,,Yuuki Kento bangkit bersama Gladion untuk merebut kembali Magical Gate dari cengkraman program jahat Deletloss.
+Comment: 0,0:01:45.84,0:01:52.10,Default,,0,0,0,,マジカルゲートの最後のエリア、タイムエリアでダイタリオンとの戦いに挑むケントとグラディオン
+Dialogue: 0,0:01:45.84,0:01:52.10,Default,ko,0,0,0,,매지컬 게이트의 마지막 에이리어, 타임 에이리어에서 다이탈리온과의 전투에 도전한 켄토와 글라디온.
+Dialogue: 0,0:01:45.84,0:01:52.10,Default,en,0,0,0,,Kento and Gladion engaged in the battle against Ditalion at Time Area, Magical Gate's last area.
+Dialogue: 0,0:01:45.84,0:01:52.10,Default,id,0,0,0,,Di area terakhir Magical Gate, Time Area, Kento dan Gladion bertarung melawan Ditalion.
+Comment: 0,0:01:52.10,0:01:57.36,Default,,0,0,0,,だが、ダイタリオンの体内には弟のカイトと父、タケトが囚われていた
+Dialogue: 0,0:01:52.10,0:01:57.36,Default,ko,0,0,0,,그러나 다이탈리온의 안에는 아우 카이토와 아버지 타케토가 갇혀 있었다.
+Dialogue: 0,0:01:52.10,0:01:57.36,Default,en,0,0,0,,But his brother, Kaito, and his father, Taketo, was trapped inside Ditalion.
+Dialogue: 0,0:01:52.10,0:01:57.36,Default,id,0,0,0,,Tetapi di dalam tubuh Ditalion, terperangkap adiknya, Kaito, dan ayahnya, Taketo.
+Comment: 0,0:01:58.02,0:02:05.64,Default,,0,0,0,,ガリューンとドラグオンの協力を得て、二人を助けだしたケントは、ビクトリーグラディオンと共にダイタリオンを倒すのだ
+Dialogue: 0,0:01:58.02,0:02:05.64,Default,ko,0,0,0,,가륜과 드라그온의 도움을 받아 둘 다 구한 켄토는 빅토리 글라디온과 함께 다이탈리온을 쓰러뜨렸다.
+Dialogue: 0,0:01:58.02,0:02:02.15,Default,en,0,0,0,,After saving them with the help of Garyun and Dragwon,
+Dialogue: 0,0:02:02.15,0:02:05.64,Default,en,0,0,0,,Kento took Ditalion down with Victory Gladion.
+Dialogue: 0,0:01:58.02,0:02:02.15,Default,id,0,0,0,,Setelah berhasil menyelamatkan mereka berdua dengan bantuan Garyun dan Dragwon,
+Dialogue: 0,0:02:02.15,0:02:05.64,Default,id,0,0,0,,Kento lalu mengalahkan Ditalion dengan Victory Gladion.
+Comment: 0,0:02:06.37,0:02:09.54,Default,,0,0,0,,世界中が平和に包まれたかに見えた
+Dialogue: 0,0:02:06.37,0:02:09.54,Default,ko,0,0,0,,전세계에 평화가 찾아온 것 같아 보였다.
+Dialogue: 0,0:02:06.37,0:02:09.54,Default,en,0,0,0,,It seemed that peace was all over the world.
+Dialogue: 0,0:02:06.37,0:02:09.54,Default,id,0,0,0,,Seluruh dunia tampaknya kembali diliputi kedamaian.
+Comment: 0,0:02:09.54,0:02:15.29,Default,,0,0,0,,だが、再びジャギ爆誕がダイバーランドを押そう、ダイタリオンはまだ生きていたんだ
+Dialogue: 0,0:02:09.54,0:02:15.29,Default,ko,0,0,0,,그러나 다시 사악한 기운의 폭탄이 다이버랜드를 뒤덮은 것이, 다이탈리온이 아직 살아 있는 것이었다.
+Dialogue: 0,0:02:09.54,0:02:15.29,Default,en,0,0,0,,But the evil aura bomb threatened Diverland once more; Ditalion was still alive.
+Dialogue: 0,0:02:09.54,0:02:15.29,Default,id,0,0,0,,Tapi bom energi jahat kembali mengancam Diverland. Ternyata Ditalion masih hidup.
+Comment: 0,0:02:15.89,0:02:20.51,Default,,0,0,0,,グラディオンは自らを犠牲にし、ダイタリオンとジャギ爆誕を止めようとする、
+Dialogue: 0,0:02:15.89,0:02:20.51,Default,ko,0,0,0,,글라디온은 직접 희생해 다이탈리온과 사악한 기운의 폭탄을 막는다.
+Dialogue: 0,0:02:15.89,0:02:20.51,Default,en,0,0,0,,To stop Ditalion and Evil Aura Bomb, Gladion sacrificed himself.
+Dialogue: 0,0:02:15.89,0:02:20.51,Default,id,0,0,0,,Gladion mengorbankan dirinya sendiri untuk menghentikan Ditalion dan bom energi jahat.
+Comment: 0,0:02:20.93,0:02:26.27,Default,,0,0,0,,駆け付けたケントの目の前でグラディオンはダイタリオンと共に消滅してしまった
+Dialogue: 0,0:02:20.93,0:02:26.27,Default,ko,0,0,0,,급히 달려온 켄토가 보는 앞에서 글라디온은 다이탈리온과 함께 소멸하고 만다.
+Dialogue: 0,0:02:20.93,0:02:26.27,Default,en,0,0,0,,He disappears with Ditalion right in front of Kento's eyes.
+Dialogue: 0,0:02:20.93,0:02:26.27,Default,id,0,0,0,,Di depan mata Kento, Gladion musnah bersama dengan Ditalion.
+Comment: 0,0:02:32.73,0:02:33.92,Default,,0,0,0,,グラディオン
+Dialogue: 0,0:02:32.73,0:02:33.92,Default,ko,0,0,0,,글라디온.
+Dialogue: 0,0:02:32.73,0:02:33.92,Default,en,0,0,0,,Gladion.
+Dialogue: 0,0:02:32.73,0:02:33.92,Default,id,0,0,0,,Gladion.
+Comment: 0,0:02:36.50,0:02:42.00,Default,,0,0,0,,グラディオン。不味い。我が時の力よ。グラディオンの時を止めたまえ！
+Dialogue: 0,0:02:36.50,0:02:38.55,Default,ko,0,0,0,,글라디온. 안 돼!
+Dialogue: 0,0:02:36.50,0:02:38.55,Default,en,0,0,0,,Gladion. No!
+Dialogue: 0,0:02:36.50,0:02:38.55,Default,id,0,0,0,,Gladion. Gawat!
+Dialogue: 0,0:02:38.55,0:02:42.00,Default,ko,0,0,0,,내 시간의 힘이여, 글라디온의 시간을 멈추거라!
+Dialogue: 0,0:02:38.55,0:02:42.00,Default,en,0,0,0,,I shall stop his time with my power!
+Dialogue: 0,0:02:38.55,0:02:42.00,Default,id,0,0,0,,Aku akan menghentikan waktunya dengan kekuatanku!
+Comment: 0,0:02:52.45,0:02:55.99,Default,,0,0,0,,死なせはしない。死なせるものか、グラディオン！
+Dialogue: 0,0:02:52.45,0:02:55.99,Default,ko,0,0,0,,죽게 내버려두지 않는다. 이렇게 생명을 잃을쏘냐, 글라디온!
+Dialogue: 0,0:02:52.45,0:02:55.99,Default,en,0,0,0,,I will not let you die. I shall not let you die, Gladion!
+Dialogue: 0,0:02:52.45,0:02:55.99,Default,id,0,0,0,,Tidak akan kubiarkan kau mati. Aku tidak akan membiarkanmu mati, Gladion!
+Comment: 0,0:02:56.50,0:02:58.63,Default,,0,0,0,,わが命に代えても！
+Dialogue: 0,0:02:56.50,0:02:58.63,Default,ko,0,0,0,,내 생명을 대가로 치루는 한이 있더라도!
+Dialogue: 0,0:02:56.50,0:02:58.63,Default,en,0,0,0,,Even if it costs my own soul!
+Dialogue: 0,0:02:56.50,0:02:58.63,Default,id,0,0,0,,Biar harus ditukar dengan jiwaku sekalipun!
+Comment: 0,0:02:59.34,0:03:04.99,TitleCard,,0,0,0,,思いをひとつに！
+Dialogue: 0,0:02:59.34,0:03:04.99,TitleCard,ko,0,0,0,title,{\an8\pos(316,286)\fnhykanb\fs36}마음을 하나로!
+Dialogue: 0,0:02:59.34,0:03:04.99,TitleCard,en,0,0,0,title,{\an8\pos(316,286)}Let Hearts Become One!
+Dialogue: 0,0:02:59.34,0:03:04.99,TitleCard,id,0,0,0,title,{\an8\pos(325,286)}Satukan Perasaan Kita!
+Comment: 0,0:03:11.31,0:03:12.38,Default,ref,0,0,0,,[[=31.32ref01]]
+Comment: 0,0:03:13.04,0:03:14.61,Default,ref,0,0,0,,[[=31.32ref02]]
+Comment: 0,0:03:15.00,0:03:17.92,Default,ref,0,0,0,,[[=31.32ref03]]
+Comment: 0,0:03:17.92,0:03:22.51,Default,ref,0,0,0,,[[=31.32ref04]]
+Comment: 0,0:03:22.90,0:03:25.07,Default,ref,0,0,0,,[[=31.32ref05:strip]]
+Comment: 0,0:03:25.98,0:03:29.39,Default,ref,0,0,0,,[[=31.32ref06]]
+Comment: 0,0:03:30.35,0:03:34.46,Default,,0,0,0,,-グラディオンを？\N-すぐに我が元に来い、結城ケント
+Dialogue: 0,0:03:30.35,0:03:34.46,Default,ko,0,0,0,,-글라디온을?\N-빨리 내가 있는 곳에 오거라, 유우키 켄토.
+Dialogue: 0,0:03:30.35,0:03:34.46,Default,en,0,0,0,,-Save Gladion?\N-Come to my place quickly, Yuuki Kento.
+Dialogue: 0,0:03:30.35,0:03:34.46,Default,id,0,0,0,,-Untuk menyelamatkan Gladion? \N -Segeralah datang ke tempatku, Yuuki Kento.
+Comment: 0,0:03:34.46,0:03:38.38,Default,,0,0,0,,-何処に、何処にいるんだ？\N-我はカロンの中にいる
+Dialogue: 0,0:03:34.46,0:03:38.38,Default,ko,0,0,0,,-어디에, 어디 있어?\N-나는 카론 안에 있다.
+Dialogue: 0,0:03:34.46,0:03:38.38,Default,en,0,0,0,,-Where? Where are you?\N-I am inside Karon.
+Dialogue: 0,0:03:34.46,0:03:38.38,Default,id,0,0,0,,-Dimana? Dimana kau berada? \N -Aku ada di dalam Karon.
+Comment: 0,0:03:38.38,0:03:44.08,Default,,0,0,0,,-急げ。デリトロスがグラディオンを狙っている！\N-おい、カロン！おい！
+Dialogue: 0,0:03:38.38,0:03:44.08,Default,ko,0,0,0,,-서둘러라. 데리트로스가 글라디온을 노리고 있다!\N-야, 카론! 야!
+Dialogue: 0,0:03:38.38,0:03:44.08,Default,en,0,0,0,,-Be quick. Deletloss is targeting on Gladion!\N-Hey, Karon! Hey!
+Dialogue: 0,0:03:38.38,0:03:44.08,Default,id,0,0,0,,-Bergegaslah. Deletloss sedang mengincar Gladion! \N -Hei, Karon! Hei!
+Comment: 0,0:03:46.68,0:03:48.54,Default,,0,0,0,,デリトロスが、グラディオンを
+Dialogue: 0,0:03:46.68,0:03:48.54,Default,ko,0,0,0,,데리트로스가 글라디온을.
+Dialogue: 0,0:03:46.68,0:03:48.54,Default,en,0,0,0,,Deletloss wants Gladion.
+Dialogue: 0,0:03:46.68,0:03:48.54,Default,id,0,0,0,,Deletloss sedang mengincar Gladion.
+Comment: 0,0:04:18.44,0:04:20.47,Default,,0,0,0,,まさか？ケント君の見に何かが？
+Dialogue: 0,0:04:18.44,0:04:20.47,Default,ko,0,0,0,,설마? 켄토에게 뭔 일이?
+Dialogue: 0,0:04:18.44,0:04:20.47,Default,en,0,0,0,,Don't tell me something happened to Kento?
+Dialogue: 0,0:04:18.44,0:04:20.47,Default,id,0,0,0,,Jangan-jangan, terjadi sesuatu pada Kento?
+Comment: 0,0:04:24.13,0:04:25.36,Default,,0,0,0,,まただめだわ
+Dialogue: 0,0:04:24.13,0:04:25.36,Default,ko,0,0,0,,아직 전혀...
+Dialogue: 0,0:04:24.13,0:04:25.36,Default,en,0,0,0,,I still didn't get it.
+Dialogue: 0,0:04:24.13,0:04:25.36,Default,id,0,0,0,,Lagi-lagi gagal.
+Comment: 0,0:04:29.23,0:04:32.83,Default,,0,0,0,,分からない。分からないわ、もう
+Dialogue: 0,0:04:29.23,0:04:32.83,Default,ko,0,0,0,,모르겠어. 하나도 모르겠어.
+Dialogue: 0,0:04:29.23,0:04:32.83,Default,en,0,0,0,,I don't understand. I'm really confused.
+Dialogue: 0,0:04:29.23,0:04:32.83,Default,id,0,0,0,,Aku tidak mengerti. Aku benar-benar bingung.
+Comment: 0,0:04:32.83,0:04:34.57,Default,,0,0,0,,いったいなんなのデリトロスって
+Dialogue: 0,0:04:32.83,0:04:34.57,Default,ko,0,0,0,,대체 데리트로스가 뭔지.
+Dialogue: 0,0:04:32.83,0:04:34.57,Default,en,0,0,0,,Just what in the hell is Deletloss?
+Dialogue: 0,0:04:32.83,0:04:34.57,Default,id,0,0,0,,Apa, ya, sebenarnya Deletloss itu?
+Comment: 0,0:04:35.67,0:04:38.28,Default,,0,0,0,,だからそれを今調べているだろ？
+Dialogue: 0,0:04:35.67,0:04:38.28,Default,ko,0,0,0,,그러니까 그걸 조사하고 있는 것 아니겠니?
+Dialogue: 0,0:04:35.67,0:04:38.28,Default,en,0,0,0,,And that's exactly why we're trying to find that out.
+Dialogue: 0,0:04:35.67,0:04:38.28,Default,id,0,0,0,,Justru itu kita mencari tahu.
+Comment: 0,0:04:39.87,0:04:44.09,Default,,0,0,0,,デリトロス。その目的、居場所何一つ謎のままだ
+Dialogue: 0,0:04:39.87,0:04:44.09,Default,ko,0,0,0,,데리트로스. 그 목적, 근원지 하나 모른다.
+Dialogue: 0,0:04:39.87,0:04:44.09,Default,en,0,0,0,,Deletloss. None of its objective nor origin is known.
+Dialogue: 0,0:04:39.87,0:04:44.09,Default,id,0,0,0,,Deletloss. Apa tujuannya? Dimana dia berada? Semuanya masih merupakan misteri.
+Comment: 0,0:04:44.75,0:04:50.64,Default,,0,0,0,,一刻も早く正体を突き止めれば、マジカルゲートの悲劇が再び起きるかもしれんのだ
+Dialogue: 0,0:04:44.75,0:04:50.64,Default,ko,0,0,0,,한시라도 빨리 정체를 밝히지 않으면 매지컬 게이트에서 비극이 다시 일어날 지도 모른다.
+Dialogue: 0,0:04:44.75,0:04:50.64,Default,en,0,0,0,,If we don't expose him as soon as possible, Magical Gate's tragedy can occur again.
+Dialogue: 0,0:04:44.75,0:04:50.64,Default,id,0,0,0,,Kalau kita tidak bisa mengetahui dimana keberadaannya, tragedi Magical Gate bisa terulang kembali.
+Comment: 0,0:04:50.64,0:04:53.86,Default,,0,0,0,,うん。もうあんなこと、二度と起きて欲しくないわ。
+Dialogue: 0,0:04:50.64,0:04:53.86,Default,ko,0,0,0,,응. 그런 일은 다시는 일어나면 안 돼.
+Dialogue: 0,0:04:50.64,0:04:53.86,Default,en,0,0,0,,Yeah. I don't want such thing to happen the second time.
+Dialogue: 0,0:04:50.64,0:04:53.86,Default,id,0,0,0,,Iya. Aku tidak ingin kejadian seperti itu terjadi kedua kalinya.
+Comment: 0,0:04:56.60,0:05:00.90,Default,,0,0,0,,ケント君とグラディオンはマジカルゲートとダイバーランドを救ってくれた
+Dialogue: 0,0:04:56.60,0:05:00.90,Default,ko,0,0,0,,켄토하고 글라디온은 매지컬 게이트와 다이버랜드를 구해 줬다.
+Dialogue: 0,0:04:56.60,0:05:00.90,Default,en,0,0,0,,Kento and Gladion have saved Magical Gate and Diverland.
+Dialogue: 0,0:04:56.60,0:05:00.90,Default,id,0,0,0,,Kento dan Gladion telah menyelamatkan Diverland dan Magical Gate.
+Comment: 0,0:05:01.41,0:05:06.08,Default,,0,0,0,,今度は私たちがデリトロスの正体を暴き。そして、倒す番だ
+Dialogue: 0,0:05:01.41,0:05:06.08,Default,ko,0,0,0,,이번에는 우리가 데리트로스의 정체를 밝혀 쓰러뜨릴 차례이다.
+Dialogue: 0,0:05:01.41,0:05:06.08,Default,en,0,0,0,,Now it's our turn to uncover Deletloss' identity and take it down.
+Dialogue: 0,0:05:01.41,0:05:06.08,Default,id,0,0,0,,Dan kali ini adalah giliran kita untuk mengungkap sosok Deletloss dan sekaligus mengalahkannya.
+Comment: 0,0:05:06.67,0:05:09.44,Default,,0,0,0,,うん。お爺ちゃん、私、頑張るわ！
+Dialogue: 0,0:05:06.67,0:05:09.44,Default,ko,0,0,0,,응. 할아버지, 나도 힘낼게!
+Dialogue: 0,0:05:06.67,0:05:09.44,Default,en,0,0,0,,That's right! Grandpa, I'll do my best!
+Dialogue: 0,0:05:06.67,0:05:09.44,Default,id,0,0,0,,Ya! Kakek, aku akan berjuang!
+Comment: 0,0:05:10.44,0:05:12.34,Default,,0,0,0,,ダイタリオンがカロンの中に？
+Dialogue: 0,0:05:10.44,0:05:12.34,Default,ko,0,0,0,,다이탈리온이 카론 안에?
+Dialogue: 0,0:05:10.44,0:05:12.34,Default,en,0,0,0,,Ditalion is inside Karon?
+Dialogue: 0,0:05:10.44,0:05:12.34,Default,id,0,0,0,,Ditalion ada di dalam Karon?
+Comment: 0,0:05:13.80,0:05:18.77,Default,,0,0,0,,-ほら、見て、ショウさん。\N-デリトロスの反応まで。すると、
+Dialogue: 0,0:05:13.80,0:05:18.77,Default,ko,0,0,0,,-자, 봐봐, 쇼우.\N-데리트로스의 반응까지. 그럼,
+Dialogue: 0,0:05:13.80,0:05:18.77,Default,en,0,0,0,,-Look at this, Shou.\N-Reaction of Deletloss is there... That means...
+Dialogue: 0,0:05:13.80,0:05:18.77,Default,id,0,0,0,,-Coba kau lihat ini, Shou, \N-Bahkan ada tanda-tanda Deletloss. Berarti...
+Comment: 0,0:05:20.12,0:05:21.95,Default,,0,0,0,,ショウさん。もしかして、
+Dialogue: 0,0:05:20.12,0:05:21.95,Default,ko,0,0,0,,쇼우. 설마,
+Dialogue: 0,0:05:20.12,0:05:21.95,Default,en,0,0,0,,Shou, would it be...
+Dialogue: 0,0:05:20.12,0:05:21.95,Default,id,0,0,0,,Shou, jangan-jangan...
+Comment: 0,0:05:31.09,0:05:36.22,Default,,0,0,0,,間違いない。ダイタリオンはグラディオンを守るために戦っているんだ。デリトロスと
+Dialogue: 0,0:05:31.09,0:05:36.22,Default,ko,0,0,0,,틀림없어. 다이탈리온은 글라디온을 지키기 위해 싸우고 있는 거야. 데리트로스하고.
+Dialogue: 0,0:05:31.09,0:05:36.22,Default,en,0,0,0,,There's no mistake.. Ditalion is fighting to protect Gladion from Deletloss.
+Dialogue: 0,0:05:31.09,0:05:36.22,Default,id,0,0,0,,Tidak salah lagi. Ditalion sedang bertarung melawan Deletloss demi melindungi Gladion.
+Comment: 0,0:05:36.85,0:05:39.36,Default,,0,0,0,,じゃあ、この小さな反応がグラディオン
+Dialogue: 0,0:05:36.85,0:05:39.36,Default,ko,0,0,0,,그럼, 이 작은 반응은 글라디온이네.
+Dialogue: 0,0:05:36.85,0:05:39.36,Default,en,0,0,0,,So, this small reaction is from Gladion?
+Dialogue: 0,0:05:36.85,0:05:39.36,Default,id,0,0,0,,Jadi, tanda keberadaan yang kecil ini adalah Gladion, ya?
+Comment: 0,0:05:40.23,0:05:42.59,Default,,0,0,0,,こうしちゃいられない。助けに行かないと
+Dialogue: 0,0:05:40.23,0:05:42.59,Default,ko,0,0,0,,이렇게 두고 볼 수는 없어. 구하러 가야만 해.
+Dialogue: 0,0:05:40.23,0:05:42.59,Default,en,0,0,0,,I can't just stand watching that. I must go and save him.
+Dialogue: 0,0:05:40.23,0:05:42.59,Default,id,0,0,0,,Aku tidak boleh diam saja. Aku harus segera pergi menolongnya.
+Comment: 0,0:05:44.16,0:05:50.01,Default,,0,0,0,,それに、ダイタリオンは言ってた。グラディオンを助けるために、俺の力が必要だって
+Dialogue: 0,0:05:44.16,0:05:50.01,Default,ko,0,0,0,,다이탈리온이 말했어. 글라디온을 구하기 위해서는 내 힘이 필요하다고.
+Dialogue: 0,0:05:44.16,0:05:50.01,Default,en,0,0,0,,After all, Ditalion did say that he needs my help to save Gladion.
+Dialogue: 0,0:05:44.16,0:05:50.01,Default,id,0,0,0,,Lagipula, tadi Ditalion juga bilang, untuk menyelamatkan Gladion, dibutuhkan bantuanku.
+Comment: 0,0:05:50.01,0:05:52.24,Default,,0,0,0,,でも、どうやって助けに行くんだえ？
+Dialogue: 0,0:05:50.01,0:05:52.24,Default,ko,0,0,0,,근데 어떻게 구하러 가게?
+Dialogue: 0,0:05:50.01,0:05:52.24,Default,en,0,0,0,,But how will you do that?
+Dialogue: 0,0:05:50.01,0:05:52.24,Default,id,0,0,0,,Tapi bagaimana cara kau menolongnya?
+Comment: 0,0:05:53.23,0:05:57.11,Default,,0,0,0,,グラディオンがいるのはマジカルゲートじゃなくて、カロンの中なんだよ
+Dialogue: 0,0:05:53.23,0:05:57.11,Default,ko,0,0,0,,글라디온이 있는 곳은 매지컬 게이트가 아닌 카론 안이잖아.
+Dialogue: 0,0:05:53.23,0:05:57.11,Default,en,0,0,0,,Gladion is not in Magical Gate. He's inside Karon.
+Dialogue: 0,0:05:53.23,0:05:57.11,Default,id,0,0,0,,Gladion tidak berada di Magical Gate, melainkan di dalam Karon.
+Comment: 0,0:05:58.15,0:06:00.97,Default,,0,0,0,,-ああ、そうか。\N-ちょっと待って
+Dialogue: 0,0:05:58.15,0:06:00.97,Default,ko,0,0,0,,-아, 그렇구나.\N-잠깐만.
+Dialogue: 0,0:05:58.15,0:06:00.97,Default,en,0,0,0,,-Oh, right.\N-Wait a second.
+Dialogue: 0,0:05:58.15,0:06:00.97,Default,id,0,0,0,,-Oh, iya. \N-Tunggu sebentar.
+Comment: 0,0:06:03.87,0:06:04.99,Default,,0,0,0,,どうしたの、ショウさん
+Dialogue: 0,0:06:03.87,0:06:04.99,Default,ko,0,0,0,,왜, 쇼우?
+Dialogue: 0,0:06:03.87,0:06:04.99,Default,en,0,0,0,,Why, Shou?
+Dialogue: 0,0:06:03.87,0:06:04.99,Default,id,0,0,0,,Kenapa, Shou?
+Comment: 0,0:06:05.69,0:06:09.74,Default,,0,0,0,,カロンって、マジカルゲートの管理プログラムが一部なんだよね
+Dialogue: 0,0:06:05.69,0:06:09.74,Default,ko,0,0,0,,카론에게도 매지컬 게이트 관리 프로그램이 일부 있다고 했지.
+Dialogue: 0,0:06:05.69,0:06:09.74,Default,en,0,0,0,,Karon is a part of Magical Gate's administration program, yes?
+Dialogue: 0,0:06:05.69,0:06:09.74,Default,id,0,0,0,,Karon adalah salah satu bagian dari program pengendali Magical Gate, kan?
+Comment: 0,0:06:09.74,0:06:12.23,Default,,0,0,0,,うん、自分でそういきだけど
+Dialogue: 0,0:06:09.74,0:06:12.23,Default,ko,0,0,0,,응, 직접 그렇게 말했어.
+Dialogue: 0,0:06:09.74,0:06:12.23,Default,en,0,0,0,,Yeah, he himself told so.
+Dialogue: 0,0:06:09.74,0:06:12.23,Default,id,0,0,0,,Iya, dia sendiri yang bilang begitu.
+Comment: 0,0:06:12.23,0:06:16.22,Default,,0,0,0,,それなら、マジカルゲートと同じようにカロンの中にダイブできるかもしれない
+Dialogue: 0,0:06:12.23,0:06:16.22,Default,ko,0,0,0,,그렇다면 매지컬 게이트에 들어갈 때처럼 카론 안에 다이브하면 될지도 몰라.
+Dialogue: 0,0:06:12.23,0:06:16.22,Default,en,0,0,0,,If that's the case, you might be able to dive inside Karon just like you usually do into Magical Gate.
+Dialogue: 0,0:06:12.23,0:06:16.22,Default,id,0,0,0,,Mungkin kau bisa melakukan dive ke dalam Karon, seperti halnya ke dalam Magical Gate.
+Comment: 0,0:06:25.70,0:06:30.99,Default,,0,0,0,,-やった。これでカロンの中に入れる。\N-よし、待っていろよ。グラディオン
+Dialogue: 0,0:06:25.70,0:06:30.99,Default,ko,0,0,0,,-됐어. 이제 카론 안에 들어가면 돼.\N-좋아. 기다려, 글라디온.
+Dialogue: 0,0:06:25.70,0:06:30.99,Default,en,0,0,0,,-Done. Now you can go into Karon.\N-Great! Wait for me, Gladion.
+Dialogue: 0,0:06:25.70,0:06:30.99,Default,id,0,0,0,,-Berhasil. Dengan begini, kau bisa masuk ke dalam Karon. \N-Bagus! Sekarang, tunggu aku, Gladion.
+Comment: 0,0:06:31.86,0:06:34.18,Default,,0,0,0,,-ケント君、僕も一緒にいくよ。\N-うん？
+Dialogue: 0,0:06:31.86,0:06:34.18,Default,ko,0,0,0,,-켄토, 나도 같이 갈게.\N-응?
+Dialogue: 0,0:06:31.86,0:06:34.18,Default,en,0,0,0,,-Kento, I'll go along with you.\N-Eh?
+Dialogue: 0,0:06:31.86,0:06:34.18,Default,id,0,0,0,,-Kento, aku juga ikut denganmu, ya?\N -Eh?
+Comment: 0,0:06:35.05,0:06:39.11,Default,,0,0,0,,グラディオンはみんなを救ってくれた。今度は僕たちが助ける番だよ
+Dialogue: 0,0:06:35.05,0:06:39.11,Default,ko,0,0,0,,글라디온이 모두를 구해 줬잖아. 이번엔 우리가 구할 차례야.
+Dialogue: 0,0:06:35.05,0:06:39.11,Default,en,0,0,0,,Gladion has saved all of us. Now it's our turn to save him.
+Dialogue: 0,0:06:35.05,0:06:39.11,Default,id,0,0,0,,Gladion telah menyelamatkan kami semua. Sekarang giliran kita untuk membantunya.
+Comment: 0,0:06:39.11,0:06:39.89,Default,,0,0,0,,ショウさん
+Dialogue: 0,0:06:39.11,0:06:39.89,Default,ko,0,0,0,,쇼우.
+Dialogue: 0,0:06:39.11,0:06:39.89,Default,en,0,0,0,,Shou.
+Dialogue: 0,0:06:39.11,0:06:39.89,Default,id,0,0,0,,Shou.
+Comment: 0,0:06:40.89,0:06:42.16,Default,,0,0,0,,うん。行こう
+Dialogue: 0,0:06:40.89,0:06:42.16,Default,ko,0,0,0,,응, 가자.
+Dialogue: 0,0:06:40.89,0:06:42.16,Default,en,0,0,0,,Let's do it!
+Dialogue: 0,0:06:40.89,0:06:42.16,Default,id,0,0,0,,Ayo!
+Comment: 0,0:06:43.10,0:06:45.44,Default,,0,0,0,,カロンへ、プラグイット！
+Dialogue: 0,0:06:43.10,0:06:45.44,Default,ko,0,0,0,,카론에 플러그 잇!
+Dialogue: 0,0:06:43.10,0:06:45.44,Default,en,0,0,0,,To Karon, Plug It!
+Dialogue: 0,0:06:43.10,0:06:45.44,Default,id,0,0,0,,Menuju Karon, Plug It!
+Comment: 0,0:07:03.16,0:07:07.17,Default,,0,0,0,,-ここがカロンの中か…\N-行こう。ダイタリオンを探すんだ
+Dialogue: 0,0:07:03.16,0:07:07.17,Default,ko,0,0,0,,-여기가 카론 안이구나...\N-가자. 다이탈리온을 찾자.
+Dialogue: 0,0:07:03.16,0:07:07.17,Default,en,0,0,0,,-So this is how Karon's inside look like.\N-Let's go find Ditalion.
+Dialogue: 0,0:07:03.16,0:07:07.17,Default,id,0,0,0,,-Jadi, ini di dalam Karon, ya?\N-Ayo. Kita cari Ditalion.
+Comment: 0,0:07:10.87,0:07:15.95,Default,,0,0,0,,機能性完全に回復していれば、ウェブモンスターこときに！
+Dialogue: 0,0:07:10.87,0:07:15.95,Default,ko,0,0,0,,기능을 완전히 회복했다면 웹몬스터 따위는!
+Dialogue: 0,0:07:10.87,0:07:15.95,Default,en,0,0,0,,If only my functions had been completely recovered, these Webmonsters would've been nothing!
+Dialogue: 0,0:07:10.87,0:07:15.95,Default,id,0,0,0,,Seandainya saja seluruh fungsiku sudah pulih kembali, Webmonster seperti ini pasti bisa kumusnahkan!
+Comment: 0,0:07:21.22,0:07:25.90,Default,,0,0,0,,そうか。デリトロスの狙いはグラディオンか。そうはさせない！
+Dialogue: 0,0:07:21.22,0:07:25.90,Default,ko,0,0,0,,그래, 데리트로스가 노리는 건 글라디온인가. 두고 보지 않겠다!
+Dialogue: 0,0:07:21.22,0:07:25.90,Default,en,0,0,0,,Now I see. Deletloss is targeting Gladion. I won't let that happen!
+Dialogue: 0,0:07:21.22,0:07:25.90,Default,id,0,0,0,,Begitu rupanya. Yang diincar oleh Deletloss adalah Gladion. Ini tidak akan kubiarkan!
+Comment: 0,0:07:26.54,0:07:28.14,Default,,0,0,0,,ダイタスマッシュ！
+Dialogue: 0,0:07:26.54,0:07:28.14,Default,ko,0,0,0,,다이타 스매시!
+Dialogue: 0,0:07:26.54,0:07:28.14,Default,en,0,0,0,,Dita Smash!
+Dialogue: 0,0:07:26.54,0:07:28.14,Default,id,0,0,0,,Dita Smash!
+Comment: 0,0:07:31.55,0:07:35.50,Default,,0,0,0,,デリトロス。貴様にはグラディオンを絶対に渡さない！
+Dialogue: 0,0:07:31.55,0:07:35.50,Default,ko,0,0,0,,데리트로스. 네놈에게는 절대 글라디온을 넘겨주지 않겠다!
+Dialogue: 0,0:07:31.55,0:07:35.50,Default,en,0,0,0,,Deletloss! I won't hand over Gladion to you!
+Dialogue: 0,0:07:31.55,0:07:35.50,Default,id,0,0,0,,Deletloss! Gladion tidak akan kuserahkan padamu!
+Comment: 0,0:07:38.02,0:07:41.63,Default,,0,0,0,,-ダイタリオン！\N-来てくれたか、結城ケント！
+Dialogue: 0,0:07:38.02,0:07:41.63,Default,ko,0,0,0,,-다이탈리온!\N-와 주었군, 유우키 켄토!
+Dialogue: 0,0:07:38.02,0:07:41.63,Default,en,0,0,0,,-Ditalion!\N-You're finally here, Yuuki Kento!
+Dialogue: 0,0:07:38.02,0:07:41.63,Default,id,0,0,0,,-Ditalion!\N-Kau sudah datang, Yuuki Kento!
+Comment: 0,0:07:41.63,0:07:46.46,Default,,0,0,0,,-お前は倉知ショウ。\N-ダイタリオン、グラディオンはどこだ
+Dialogue: 0,0:07:41.63,0:07:46.46,Default,ko,0,0,0,,-너는 쇼우.\N-다이탈리온, 글라디온은 어디 있어?
+Dialogue: 0,0:07:41.63,0:07:46.46,Default,en,0,0,0,,-And you're Kurachi Shou!\N-Ditalion, where's Gladion?
+Dialogue: 0,0:07:41.63,0:07:46.46,Default,id,0,0,0,,-Bukankah kau Kurachi Shou?\N-Ditalion, dimana Gladion?
+Comment: 0,0:07:48.48,0:07:49.29,Default,,0,0,0,,ここだ
+Dialogue: 0,0:07:48.48,0:07:49.29,Default,ko,0,0,0,,여기다.
+Dialogue: 0,0:07:48.48,0:07:49.29,Default,en,0,0,0,,Right here.
+Dialogue: 0,0:07:48.48,0:07:49.29,Default,id,0,0,0,,Di sini.
+Comment: 0,0:07:57.30,0:07:58.05,Default,,0,0,0,,これは、
+Dialogue: 0,0:07:57.30,0:07:58.05,Default,ko,0,0,0,,이건...
+Dialogue: 0,0:07:57.30,0:07:58.05,Default,en,0,0,0,,This is...
+Dialogue: 0,0:07:57.30,0:07:58.05,Default,id,0,0,0,,Ini...
+Comment: 0,0:08:00.01,0:08:03.23,Default,,0,0,0,,-グラディオンだ。\N-グラディオン？これは？
+Dialogue: 0,0:08:00.01,0:08:03.23,Default,ko,0,0,0,,-글라디온이다.\N-글라디온? 이게?
+Dialogue: 0,0:08:00.01,0:08:03.23,Default,en,0,0,0,,-Gladion.\N-Gladion? This thing is?
+Dialogue: 0,0:08:00.01,0:08:03.23,Default,id,0,0,0,,-Itu Gladion.\N-Gladion? Sekecil ini?
+Comment: 0,0:08:03.69,0:08:09.29,Default,,0,0,0,,正確にはグラディオンのコーアプログラム。ウェブナイトの命というべきものだ
+Dialogue: 0,0:08:03.69,0:08:09.29,Default,ko,0,0,0,,정확히는 글라디온의 코어 프로그램. 웹나이트의 생명이라 부를 수 있는 것이다.
+Dialogue: 0,0:08:03.69,0:08:09.29,Default,en,0,0,0,,To be exact, that is Gladion's core program. You might call it as Webknight's life.
+Dialogue: 0,0:08:03.69,0:08:09.29,Default,id,0,0,0,,Lebih tepatnya lagi, itu adalah program inti Gladion. Bisa dibilang, itu adalah jiwa Webknight.
+Comment: 0,0:08:09.71,0:08:14.51,Default,,0,0,0,,すまん。結城ケント。グラディオンをこのような姿に
+Dialogue: 0,0:08:09.71,0:08:14.51,Default,ko,0,0,0,,미안하다, 유우키 켄토. 글라디온을 이런 꼴으로.
+Dialogue: 0,0:08:09.71,0:08:14.51,Default,en,0,0,0,,I am deeply sorry, Yuuki Kento, for making Gladion into such state.
+Dialogue: 0,0:08:09.71,0:08:14.51,Default,id,0,0,0,,Maaf, Yuuki Kento. Gladion telah jadi seperti itu.
+Comment: 0,0:08:14.51,0:08:19.81,Default,,0,0,0,,そ、そんな！グラディオン、しっかりしろ！グラディオン！グラディオン！
+Dialogue: 0,0:08:14.51,0:08:19.81,Default,ko,0,0,0,,저런! 글라디온, 정신 차려! 글라디온! 글라디온!
+Dialogue: 0,0:08:14.51,0:08:19.81,Default,en,0,0,0,,That can't be! Pull yourself together, Gladion! Gladion!
+Dialogue: 0,0:08:14.51,0:08:19.81,Default,id,0,0,0,,Kenapa begini?! Gladion, bertahanlah! Gladion!
+Comment: 0,0:08:19.81,0:08:21.14,Default,,0,0,0,,な、なんだ
+Dialogue: 0,0:08:19.81,0:08:21.14,Default,ko,0,0,0,,뭐, 뭐야.
+Dialogue: 0,0:08:19.81,0:08:21.14,Default,en,0,0,0,,What was that?
+Dialogue: 0,0:08:19.81,0:08:21.14,Default,id,0,0,0,,A-Apa ini?
+Comment: 0,0:08:22.58,0:08:26.54,Default,,0,0,0,,反応している。ウェブダイバーの声に反応している
+Dialogue: 0,0:08:22.58,0:08:26.54,Default,ko,0,0,0,,반응하고 있어. 웹다이버의 목소리에 반응하나 봐.
+Dialogue: 0,0:08:22.58,0:08:26.54,Default,en,0,0,0,,He's reacting. He's reacting to his Webdiver's voice.
+Dialogue: 0,0:08:22.58,0:08:26.54,Default,id,0,0,0,,Dia bereaksi. Dia bereaksi terhadap suara Webdivernya.
+Comment: 0,0:08:27.32,0:08:30.55,Default,,0,0,0,,生きているんだ、ケント君。グラディオンは生きているんだよ
+Dialogue: 0,0:08:27.32,0:08:30.55,Default,ko,0,0,0,,살아 있는 거야, 켄토. 글라디온은 아직 살아있어.
+Dialogue: 0,0:08:27.32,0:08:30.55,Default,en,0,0,0,,He's alive, Kento. Gladion is still alive.
+Dialogue: 0,0:08:27.32,0:08:30.55,Default,id,0,0,0,,Dia hidup, Kento. Ternyata Gladion masih hidup.
+Comment: 0,0:08:31.36,0:08:32.21,Default,,0,0,0,,グラディオン
+Dialogue: 0,0:08:31.36,0:08:32.21,Default,ko,0,0,0,,글라디온.
+Dialogue: 0,0:08:31.36,0:08:32.21,Default,en,0,0,0,,Gladion.
+Dialogue: 0,0:08:31.36,0:08:32.21,Default,id,0,0,0,,Gladion.
+Comment: 0,0:08:37.91,0:08:42.61,Default,,0,0,0,,コーアプログラムがあればグラディオンをよみがえらせることが出来る
+Dialogue: 0,0:08:37.91,0:08:42.61,Default,ko,0,0,0,,코어 프로그램이 있다면 글라디온을 부활시킬 수 있다.
+Dialogue: 0,0:08:37.91,0:08:42.61,Default,en,0,0,0,,As long as we have his core program, Gladion can be revived.
+Dialogue: 0,0:08:37.91,0:08:42.61,Default,id,0,0,0,,Asalkan program intinya masih ada, Gladion bisa dibangkitkan kembali.
+Comment: 0,0:08:42.61,0:08:46.94,Default,,0,0,0,,だが、もしそれを破壊されたら、二度と彼を
+Dialogue: 0,0:08:42.61,0:08:46.94,Default,ko,0,0,0,,만약 파괴된다면, 그는 다시는...
+Dialogue: 0,0:08:42.61,0:08:46.94,Default,en,0,0,0,,But if it's destroyed, he will never...
+Dialogue: 0,0:08:42.61,0:08:46.94,Default,id,0,0,0,,Tapi kalau itu dihancurkan, dia tidak akan pernah bangkit lagi.
+Comment: 0,0:08:48.23,0:08:50.24,Default,,0,0,0,,そんなこと、させるもんか！
+Dialogue: 0,0:08:48.23,0:08:50.24,Default,ko,0,0,0,,그런 일은 없을 거야!
+Dialogue: 0,0:08:48.23,0:08:50.24,Default,en,0,0,0,,I won't let such thing happen!
+Dialogue: 0,0:08:48.23,0:08:50.24,Default,id,0,0,0,,Itu tidak akan kubiarkan!
+Comment: 0,0:08:51.33,0:09:00.03,Default,,0,0,0,,その通りだ。グラディオンは命を懸けて我を救ってくれた。我の命にかけてもグラディオンを守る
+Dialogue: 0,0:08:51.33,0:09:00.03,Default,ko,0,0,0,,잘 말했다. 글라디온은 목숨을 걸고 날 구해 주었다. 이젠 내 목숨을 걸고 글라디온을 지키겠다.
+Dialogue: 0,0:08:51.33,0:09:00.03,Default,en,0,0,0,,Exactly. Gladion has saved me by risking his own life. I will protect him no matter what it takes.
+Dialogue: 0,0:08:51.33,0:08:56.30,Default,id,0,0,0,,Benar katamu. Gladion telah mempertaruhkan nyawa untuk menyelamatkanku.
+Dialogue: 0,0:08:56.30,0:09:00.03,Default,id,0,0,0,,Aku akan melindunginya, biar harus kutukar nyawaku sekalipun.
+Comment: 0,0:09:00.03,0:09:07.74,Default,,0,0,0,,ダイタリオン。僕いも協力させて欲しい。僕を、僕を君のウェブダイバーにしてくれないか
+Dialogue: 0,0:09:00.03,0:09:07.74,Default,ko,0,0,0,,다이탈리온. 나도 돕고 싶어. 날... 날 네 웹다이버로 받아 주지 않겠어?
+Dialogue: 0,0:09:00.03,0:09:07.74,Default,en,0,0,0,,Ditalion, let me help you as well. Would you... would you accept me as your Webdiver?
+Dialogue: 0,0:09:00.03,0:09:07.74,Default,id,0,0,0,,Ditalion, izinkan aku membantumu. Maukah... maukah kau menjadikanku sebagai Webdivermu?
+Comment: 0,0:09:07.74,0:09:11.14,Default,,0,0,0,,-ショウ。\N-ダイタリオンだけじゃない
+Dialogue: 0,0:09:07.74,0:09:11.14,Default,ko,0,0,0,,-쇼우.\N-다이탈리온뿐만이 아니야.
+Dialogue: 0,0:09:07.74,0:09:11.14,Default,en,0,0,0,,-Shou.\N-It's not only you, Ditalion.
+Dialogue: 0,0:09:07.74,0:09:11.14,Default,id,0,0,0,,-Shou.\N-Bukan hanya Ditalion saja.
+Comment: 0,0:09:13.52,0:09:18.30,Default,,0,0,0,,グラディオンは僕たちを、マジカルゲートを救ってくれた
+Dialogue: 0,0:09:13.52,0:09:18.30,Default,ko,0,0,0,,글라디온은 우리를, 매지컬 게이트를 구해 줬어.
+Dialogue: 0,0:09:13.52,0:09:18.30,Default,en,0,0,0,,Gladion has saved us and Magical Gate, too.
+Dialogue: 0,0:09:13.52,0:09:18.30,Default,id,0,0,0,,Gladion juga telah menyelamatkan kami, dan juga Magical Gate.
+Comment: 0,0:09:21.06,0:09:26.07,Default,,0,0,0,,何度も傷つき、倒れでも、僕たちを救うために戦ってくれた
+Dialogue: 0,0:09:21.06,0:09:26.07,Default,ko,0,0,0,,뭔 일을 겪더라도, 쓰러져도, 우리를 구해주기 위해 싸워 줬어.
+Dialogue: 0,0:09:21.06,0:09:26.07,Default,en,0,0,0,,No matter how many times he fell and got woulded, he kept fighting to save us.
+Dialogue: 0,0:09:21.06,0:09:26.07,Default,id,0,0,0,,Dia berulang kali terluka, dan jatuhpun, dia tetap berjuang demi menyelamatkan kami.
+Comment: 0,0:09:31.23,0:09:34.31,Default,,0,0,0,,今度は僕たちがグラディオンを救う番なんだ
+Dialogue: 0,0:09:31.23,0:09:34.31,Default,ko,0,0,0,,이번엔 우리가 글라디온을 구할 차례야.
+Dialogue: 0,0:09:31.23,0:09:34.31,Default,en,0,0,0,,This time, it's our turn to save Gladion.
+Dialogue: 0,0:09:31.23,0:09:34.31,Default,id,0,0,0,,Kali ini, giliran kita untuk menyelamatkan Gladion.
+Comment: 0,0:09:38.15,0:09:47.07,Default,,0,0,0,,だが、我はお前の力を悪用した。そればかりか、お前の親友である結城ケントと戦合わせた
+Dialogue: 0,0:09:38.15,0:09:47.07,Default,ko,0,0,0,,그러나 나는 네 힘을 악용했다. 그 뿐인가. 네 친구 유우키 켄토와도 싸우게 했지.
+Dialogue: 0,0:09:38.15,0:09:47.07,Default,en,0,0,0,,But I've abused your power. And that's not all; I even made you fighting against your friend, Yuuki Kento.
+Dialogue: 0,0:09:38.15,0:09:42.18,Default,id,0,0,0,,Tapi aku telah memperalat kekuatanmu. Bukan hanya itu juga.
+Dialogue: 0,0:09:42.18,0:09:47.07,Default,id,0,0,0,,Aku bahkan telah membuatmu bertarung melawan sahabatmu, Yuuki Kento.
+Comment: 0,0:09:49.10,0:09:54.50,Default,,0,0,0,,君のせいじゃない。悪いのはデリトロスだ。一緒に戦おう
+Dialogue: 0,0:09:49.10,0:09:54.50,Default,ko,0,0,0,,네 잘못이 아니야. 데리트로스 탓이지. 함께 싸우자.
+Dialogue: 0,0:09:49.10,0:09:54.50,Default,en,0,0,0,,It's not your fault. It's Deletloss'. Let's fight together.
+Dialogue: 0,0:09:49.10,0:09:54.50,Default,id,0,0,0,,Itu bukan kesalahanmu. Yang bersalah adalah Deletloss. Mari bertarung bersama.
+Comment: 0,0:09:54.50,0:10:02.09,Default,,0,0,0,,グラディオンを守る為に。デリトロスを倒すために。にどとあの悲劇をくれいかいさせない為に！
+Dialogue: 0,0:09:54.50,0:10:02.09,Default,ko,0,0,0,,글라디온을 지키기 위해. 데리트로스를 쓰러뜨리기 위해. 다시는 그 비극이 일어나지 않게 하기 위해!
+Dialogue: 0,0:09:54.50,0:10:02.09,Default,en,0,0,0,,To protect Gladion. To take down Deletloss. So that the same tragedy won't ever happen again!
+Dialogue: 0,0:09:54.50,0:09:58.96,Default,id,0,0,0,,Demi melindungi Gladion. Demi mengalahkan Deletloss.
+Dialogue: 0,0:09:58.96,0:10:02.09,Default,id,0,0,0,,Agar tragedi itu tidak terulang lagi untuk kedua kalinya!
+Comment: 0,0:10:02.71,0:10:08.18,Default,,0,0,0,,-ショウさん。\N-分かった。お前こそ我がウェブダイバーだ
+Dialogue: 0,0:10:02.71,0:10:08.18,Default,ko,0,0,0,,-쇼우.\N-알겠다. 너야말로 내 웹다이버다.
+Dialogue: 0,0:10:02.71,0:10:08.18,Default,en,0,0,0,,-Shou.\N-Alright then. You are my Webdiver from now on.
+Dialogue: 0,0:10:02.71,0:10:08.18,Default,id,0,0,0,,-Shou.\N-Baiklah, aku jadikan kau sebagai Webdiverku.
+Comment: 0,0:10:11.41,0:10:12.51,Default,,0,0,0,,また来た！
+Dialogue: 0,0:10:11.41,0:10:12.51,Default,ko,0,0,0,,또 온다!
+Dialogue: 0,0:10:11.41,0:10:12.51,Default,en,0,0,0,,They're approaching again!
+Dialogue: 0,0:10:11.41,0:10:12.51,Default,id,0,0,0,,Mereka datang lagi!
+Comment: 0,0:10:16.37,0:10:21.53,Default,,0,0,0,,奴らは我らが引き受ける。ケントはそのすきにグラディオンを再生するのだ！
+Dialogue: 0,0:10:16.37,0:10:21.53,Default,ko,0,0,0,,녀석들은 우리가 맡겠다. 켄토는 그 동안 글라디온을 재생시켜라!
+Dialogue: 0,0:10:16.37,0:10:21.53,Default,en,0,0,0,,We'll take care of those. Meanwhile, you have to revive Gladion!
+Dialogue: 0,0:10:16.37,0:10:21.53,Default,id,0,0,0,,Biar kami yang menangani mereka. Sementara itu, kau harus membangkitkan kembali Gladion!
+Comment: 0,0:10:21.53,0:10:22.75,Default,,0,0,0,,でも、どうやって？
+Dialogue: 0,0:10:21.53,0:10:22.75,Default,ko,0,0,0,,근데 어떻게?
+Dialogue: 0,0:10:21.53,0:10:22.75,Default,en,0,0,0,,But how?
+Dialogue: 0,0:10:21.53,0:10:22.75,Default,id,0,0,0,,Tapi, bagaimana caranya?
+Comment: 0,0:10:23.48,0:10:28.35,Default,,0,0,0,,ウェブナイトは、ウェブダイバーの心とシンクロすることによって、無限の力を発揮する
+Dialogue: 0,0:10:23.48,0:10:28.35,Default,ko,0,0,0,,웹나이트는 웹다이버의 마음과 동기화하면 무한의 힘을 발휘해.
+Dialogue: 0,0:10:23.48,0:10:28.35,Default,en,0,0,0,,A Webknight can demonstrate an unlimited power when he synchronizes his heart with his Webdiver's.
+Dialogue: 0,0:10:23.48,0:10:28.35,Default,id,0,0,0,,Bila menyatukan hatinya dengan Webdiver, Webknight bisa mengeluarkan kekuatan yang tidak terbatas.
+Comment: 0,0:10:29.22,0:10:30.85,Default,,0,0,0,,だったら再生することだって、
+Dialogue: 0,0:10:29.22,0:10:30.85,Default,ko,0,0,0,,그러니까 부활하는 것도...
+Dialogue: 0,0:10:29.22,0:10:30.85,Default,en,0,0,0,,So, reviving him should be possible.
+Dialogue: 0,0:10:29.22,0:10:30.85,Default,id,0,0,0,,Jadi, bangkit kembalipun bisa dilakukan.
+Comment: 0,0:10:34.29,0:10:36.00,Default,,0,0,0,,分かったよ。ショウさん
+Dialogue: 0,0:10:34.29,0:10:36.00,Default,ko,0,0,0,,알겠어, 쇼우.
+Dialogue: 0,0:10:34.29,0:10:36.00,Default,en,0,0,0,,I got it, Shou.
+Dialogue: 0,0:10:34.29,0:10:36.00,Default,id,0,0,0,,Aku mengerti, Shou.
+Comment: 0,0:10:37.56,0:10:43.27,Default,,0,0,0,,心配ないよ。グラディオン。必ず俺が守って見せる。よみがえらせて見せるから！
+Dialogue: 0,0:10:37.56,0:10:43.27,Default,ko,0,0,0,,걱정 마, 글라디온. 반드시 내가 지켜 보일게. 부활시켜 줄게!
+Dialogue: 0,0:10:37.56,0:10:43.27,Default,en,0,0,0,,Do not worry, Gladion. I'll definitely protect you. I'll revive you!
+Dialogue: 0,0:10:37.56,0:10:43.27,Default,id,0,0,0,,Jangan khawatir, Gladion. Aku pasti akan melindungimu. Aku akan membangkitkanmu kembali!
+Comment: 0,0:10:43.83,0:10:45.65,Default,,0,0,0,,さあ、ケント君。早くいくんだ
+Dialogue: 0,0:10:43.83,0:10:45.65,Default,ko,0,0,0,,자, 켄토. 빨리 가.
+Dialogue: 0,0:10:43.83,0:10:45.65,Default,en,0,0,0,,Now, Kento, hurry up and go.
+Dialogue: 0,0:10:43.83,0:10:45.65,Default,id,0,0,0,,Nah, Kento, cepat pergi.
+Comment: 0,0:10:54.46,0:10:55.97,Default,,0,0,0,,行くぞ！ショウ！
+Dialogue: 0,0:10:54.46,0:10:55.97,Default,ko,0,0,0,,가자! 쇼우!
+Dialogue: 0,0:10:54.46,0:10:55.97,Default,en,0,0,0,,Let us begin, Shou!
+Dialogue: 0,0:10:54.46,0:10:55.97,Default,id,0,0,0,,Ayo kita mulai, Shou!
+Comment: 0,0:11:00.72,0:11:05.37,Default,,0,0,0,,ウェブダイブ！ダイタリオン！
+Dialogue: 0,0:11:00.72,0:11:05.37,Default,ko,0,0,0,,웹다이브! 다이탈리온!
+Dialogue: 0,0:11:00.72,0:11:05.37,Default,en,0,0,0,,Webdive! Ditalion!
+Dialogue: 0,0:11:00.72,0:11:05.37,Default,id,0,0,0,,Webdive! Ditalion!
+Dialogue: 0,0:11:41.83,0:11:43.94,Thx4Watching,,0,0,0,,{\an3\move(29,470,602,470,0,368)}Brought to you by {\r\t(374,608,\3cFFFFFF\blur2)\t(608,923,\3c000000\blur0)}Subdiver
+Dialogue: 0,0:11:43.94,0:11:48.97,Thx4Watching,,0,0,0,,{\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\move(-320,-240,10,476,2520,2762)\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cFFFFFF)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\frx358\fry0}Brought to you by {\t(2850,2900,\blur5\bord8\3cffffff)\t(2900,3000,\blur0\bord2\3c023B39)}S{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(2900,2900,\3c023B39)\t(2940,2980,\blur5\bord8\3cffffff)\t(2980,3080,\blur0\bord2\3c023B39)}u{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3040,3080,\blur5\bord8\3cffffff)\t(3080,3180,\blur0\bord2\3c023B39)}b{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3140,3180,\blur5\bord8\3cffffff)\t(3180,3280,\blur0\bord2\3c023B39)}d{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3240,3280,\blur5\bord8\3cffffff)\t(3280,3380,\blur0\bord2\3c023B39)}i{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3340,3380,\blur5\bord8\3cffffff)\t(3380,3480,\blur0\bord2\3c023B39)}v{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3400,3440,\blur5\bord8\3cffffff)\t(3440,3540,\blur0\bord2\3c023B39)}e{\r\3cFFFFFF\1aA0\2aA0\3aA0\4aA0\blur25\bord50\t(2520,2762,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2500,2800,\blur10\bord16\3cffffff)\t(2880,2900,\3c000000)\t(2800,2900,\blur0\bord2\1a00\2a00\3a00\4a00)\t(2900,2900,\3c023B39)\t(3480,3520,\blur5\bord8\3cffffff)\t(3520,3620,\blur0\bord2\3c023B39)}r
+Comment: 0,0:11:52.79,0:11:54.92,Default,,0,0,0,,-行くぞ！ダイタリオン！\N-おう！
+Dialogue: 0,0:11:52.79,0:11:54.92,Default,ko,0,0,0,,-가자, 다이탈리온!\N-좋다!
+Dialogue: 0,0:11:52.79,0:11:54.92,Default,en,0,0,0,,-Let's go, Ditalion!\N-Understood!
+Dialogue: 0,0:11:52.79,0:11:54.92,Default,id,0,0,0,,-Ayo kita mulai, Ditalion!\N-Ya!
+Comment: 0,0:11:58.79,0:12:00.21,Default,,0,0,0,,アックスノーヴぁ！
+Dialogue: 0,0:11:58.79,0:12:00.21,Default,ko,0,0,0,,액스 노바!
+Dialogue: 0,0:11:58.79,0:12:00.21,Default,en,0,0,0,,Axe Nova!
+Dialogue: 0,0:11:58.79,0:12:00.21,Default,id,0,0,0,,Axe Nova!
+Comment: 0,0:12:08.36,0:12:09.25,Default,,0,0,0,,やった！
+Dialogue: 0,0:12:08.36,0:12:09.25,Default,ko,0,0,0,,해냈다!
+Dialogue: 0,0:12:08.36,0:12:09.25,Default,en,0,0,0,,We did it!
+Dialogue: 0,0:12:08.36,0:12:09.25,Default,id,0,0,0,,Berhasil!
+Comment: 0,0:12:17.35,0:12:18.30,Default,,0,0,0,,新手か？
+Dialogue: 0,0:12:17.35,0:12:18.30,Default,ko,0,0,0,,저길 봐!
+Dialogue: 0,0:12:17.35,0:12:18.30,Default,en,0,0,0,,New enemies!
+Dialogue: 0,0:12:17.35,0:12:18.30,Default,id,0,0,0,,Musuh baru!
+Comment: 0,0:12:26.13,0:12:27.30,Default,,0,0,0,,なんだ、これは
+Dialogue: 0,0:12:26.13,0:12:27.30,Default,ko,0,0,0,,뭔가, 저건.
+Dialogue: 0,0:12:26.13,0:12:27.30,Default,en,0,0,0,,What can that be?
+Dialogue: 0,0:12:26.13,0:12:27.30,Default,id,0,0,0,,Apa itu?
+Comment: 0,0:12:32.48,0:12:33.84,Default,,0,0,0,,あ、あれは、
+Dialogue: 0,0:12:32.48,0:12:33.84,Default,ko,0,0,0,,저, 저건,
+Dialogue: 0,0:12:32.48,0:12:33.84,Default,en,0,0,0,,That's...
+Dialogue: 0,0:12:32.48,0:12:33.84,Default,id,0,0,0,,Itu...
+Comment: 0,0:12:33.84,0:12:37.24,Default,,0,0,0,,グラディオンを渡せ。グラディオンは儂のものだ！
+Dialogue: 0,0:12:33.84,0:12:37.24,Default,ko,0,0,0,,글라디온을 넘겨라. 글라디온은 내 것이다!
+Dialogue: 0,0:12:33.84,0:12:37.24,Default,en,0,0,0,,Give Gladion to me. He's mine!
+Dialogue: 0,0:12:33.84,0:12:37.24,Default,id,0,0,0,,Serahkan Gladion. Gladion adalah milikku!
+Comment: 0,0:12:37.24,0:12:38.79,Default,,0,0,0,,その声はデリトロス！
+Dialogue: 0,0:12:37.24,0:12:38.79,Default,ko,0,0,0,,이 목소리는 데리트로스!
+Dialogue: 0,0:12:37.24,0:12:38.79,Default,en,0,0,0,,This voice... Deletloss!
+Dialogue: 0,0:12:37.24,0:12:38.79,Default,id,0,0,0,,Suara itu.... Deletloss!
+Comment: 0,0:12:52.15,0:12:53.32,Default,,0,0,0,,な、なんだ？
+Dialogue: 0,0:12:52.15,0:12:53.32,Default,ko,0,0,0,,뭐, 뭐야?
+Dialogue: 0,0:12:52.15,0:12:53.32,Default,en,0,0,0,,What the?!
+Dialogue: 0,0:12:52.15,0:12:53.32,Default,id,0,0,0,,A-Apa itu?!
+Comment: 0,0:13:18.11,0:13:19.97,Default,,0,0,0,,プラグターミナルがかってに…
+Dialogue: 0,0:13:18.11,0:13:19.97,Default,ko,0,0,0,,플러그 터미널이 갑자기...
+Dialogue: 0,0:13:18.11,0:13:19.97,Default,en,0,0,0,,The plug terminal is suddenly...
+Dialogue: 0,0:13:18.11,0:13:19.97,Default,id,0,0,0,,Plug Terminalnya beroperasi sendiri...
+Comment: 0,0:13:29.49,0:13:30.58,Default,,0,0,0,,な、なんだ？
+Dialogue: 0,0:13:29.49,0:13:30.58,Default,ko,0,0,0,,뭐, 뭐야?
+Dialogue: 0,0:13:29.49,0:13:30.58,Default,en,0,0,0,,What the?!
+Dialogue: 0,0:13:29.49,0:13:30.58,Default,id,0,0,0,,Ada apa ini?!
+Comment: 0,0:13:39.53,0:13:41.57,Default,,0,0,0,,ねえ、お姉ちゃん、見て見て！
+Dialogue: 0,0:13:39.53,0:13:41.57,Default,ko,0,0,0,,잠깐, 언니, 봐봐!
+Dialogue: 0,0:13:39.53,0:13:41.57,Default,en,0,0,0,,Hey, sis, look at this!
+Dialogue: 0,0:13:39.53,0:13:41.57,Default,id,0,0,0,,Kakak, coba lihat ini!
+Comment: 0,0:13:46.90,0:13:48.47,Default,,0,0,0,,だ、大変だ！
+Dialogue: 0,0:13:46.90,0:13:48.47,Default,ko,0,0,0,,큰, 큰일이야!
+Dialogue: 0,0:13:46.90,0:13:48.47,Default,en,0,0,0,,T-This is bad!
+Dialogue: 0,0:13:46.90,0:13:48.47,Default,id,0,0,0,,Ah, gawat!
+Comment: 0,0:13:51.97,0:13:54.80,Default,,0,0,0,,父ちゃん！母ちゃん！見て！兄ちゃんが！
+Dialogue: 0,0:13:51.97,0:13:54.80,Default,ko,0,0,0,,엄마! 아빠! 봐봐! 형이!
+Dialogue: 0,0:13:51.97,0:13:54.80,Default,en,0,0,0,,Mom! Dad! Look at Bro!
+Dialogue: 0,0:13:51.97,0:13:54.80,Default,id,0,0,0,,Ayah! Ibu! Cepat! Lihat Kakak!
+Comment: 0,0:13:56.99,0:13:57.76,Default,,0,0,0,,ケント！
+Dialogue: 0,0:13:56.99,0:13:57.76,Default,ko,0,0,0,,켄토!
+Dialogue: 0,0:13:56.99,0:13:57.76,Default,en,0,0,0,,Kento!
+Dialogue: 0,0:13:56.99,0:13:57.76,Default,id,0,0,0,,Kento!
+Comment: 0,0:13:59.61,0:14:01.58,Default,,0,0,0,,-ケント君！\N-何？
+Dialogue: 0,0:13:59.61,0:14:01.58,Default,ko,0,0,0,,-켄토!\N-뭐?!
+Dialogue: 0,0:13:59.61,0:14:01.58,Default,en,0,0,0,,-Kento!\N-What?!
+Dialogue: 0,0:13:59.61,0:14:01.58,Default,id,0,0,0,,-Kento!\N-Apa?!
+Comment: 0,0:14:07.93,0:14:11.10,Default,,0,0,0,,グラディオンは俺が守る。俺がよみがえらせるんだ
+Dialogue: 0,0:14:07.93,0:14:11.10,Default,ko,0,0,0,,글라디온은 내가 지킬 거야. 내가 부활시킬 거야.
+Dialogue: 0,0:14:07.93,0:14:11.10,Default,en,0,0,0,,I'm going to protect Gladion and make sure that he's revived.
+Dialogue: 0,0:14:07.93,0:14:11.10,Default,id,0,0,0,,Gladion akan kulindungi. Akan kubangkitkan kembali dia.
+Comment: 0,0:14:11.55,0:14:14.45,Default,,0,0,0,,デリトロス。絶対お前なんかに渡すもんか！
+Dialogue: 0,0:14:11.55,0:14:14.45,Default,ko,0,0,0,,데리트로스. 절대 너 따위에게 넘겨주지 않는다!
+Dialogue: 0,0:14:11.55,0:14:14.45,Default,en,0,0,0,,Deletloss, I won't give him to you!
+Dialogue: 0,0:14:11.55,0:14:14.45,Default,id,0,0,0,,Deletloss, aku tidak akan menyerahkannya padamu!
+Comment: 0,0:14:16.52,0:14:17.20,Default,,0,0,0,,ケント君
+Dialogue: 0,0:14:16.52,0:14:17.20,Default,ko,0,0,0,,켄토.
+Dialogue: 0,0:14:16.52,0:14:17.20,Default,en,0,0,0,,Kento.
+Dialogue: 0,0:14:16.52,0:14:17.20,Default,id,0,0,0,,Kento.
+Comment: 0,0:14:24.91,0:14:25.76,Default,,0,0,0,,ショウさん
+Dialogue: 0,0:14:24.91,0:14:25.76,Default,ko,0,0,0,,쇼우.
+Dialogue: 0,0:14:24.91,0:14:25.76,Default,en,0,0,0,,Shou.
+Dialogue: 0,0:14:24.91,0:14:25.76,Default,id,0,0,0,,Shou.
+Comment: 0,0:14:27.16,0:14:29.86,Default,,0,0,0,,全世界に向けて配信されているのか
+Dialogue: 0,0:14:27.16,0:14:29.86,Default,ko,0,0,0,,전세계에 발신되고 있는가.
+Dialogue: 0,0:14:27.16,0:14:29.86,Default,en,0,0,0,,Is it being transmitted to all over the world?
+Dialogue: 0,0:14:27.16,0:14:29.86,Default,id,0,0,0,,Apakah ini dipancarkan ke seluruh dunia?
+Comment: 0,0:14:43.57,0:14:44.32,Default,,0,0,0,,ケント！
+Dialogue: 0,0:14:43.57,0:14:44.32,Default,ko,0,0,0,,켄토!
+Dialogue: 0,0:14:43.57,0:14:44.32,Default,en,0,0,0,,Kento!
+Dialogue: 0,0:14:43.57,0:14:44.32,Default,id,0,0,0,,Kento!
+Comment: 0,0:14:44.96,0:14:45.68,Default,,0,0,0,,兄ちゃん！
+Dialogue: 0,0:14:44.96,0:14:45.68,Default,ko,0,0,0,,형!
+Dialogue: 0,0:14:44.96,0:14:45.68,Default,en,0,0,0,,Bro!
+Dialogue: 0,0:14:44.96,0:14:45.68,Default,id,0,0,0,,Kakak!
+Comment: 0,0:14:46.63,0:14:47.62,Default,,0,0,0,,ケント君！
+Dialogue: 0,0:14:46.63,0:14:47.62,Default,ko,0,0,0,,켄토!
+Dialogue: 0,0:14:46.63,0:14:47.62,Default,en,0,0,0,,Kento!
+Dialogue: 0,0:14:46.63,0:14:47.62,Default,id,0,0,0,,Kento!
+Comment: 0,0:14:50.35,0:14:53.42,Default,,0,0,0,,グラディオンは渡さない！絶対に渡すもんか！
+Dialogue: 0,0:14:50.35,0:14:53.42,Default,ko,0,0,0,,글라디온은 안 넘겨줘! 절대!
+Dialogue: 0,0:14:50.35,0:14:53.42,Default,en,0,0,0,,I won't hand Gladion over to you! Never!
+Dialogue: 0,0:14:50.35,0:14:53.42,Default,id,0,0,0,,Gladion tidak akan kuserahkan! Tidak akan pernah!
+Comment: 0,0:14:57.55,0:15:00.59,Default,,0,0,0,,負けるもんか！負けるもんか！
+Dialogue: 0,0:14:57.55,0:15:00.59,Default,ko,0,0,0,,쓰러지지 않을 거야! 계속 싸울 거야!
+Dialogue: 0,0:14:57.55,0:15:00.59,Default,en,0,0,0,,I won't be defeated! I won't lose!
+Dialogue: 0,0:14:57.55,0:15:00.59,Default,id,0,0,0,,Aku tidak akan kalah! Tidak akan kalah!
+Comment: 0,0:15:00.59,0:15:02.97,Default,,0,0,0,,まけらい！負けられないんだ！
+Dialogue: 0,0:15:00.59,0:15:02.97,Default,ko,0,0,0,,안 져! 절대 안 져!
+Dialogue: 0,0:15:00.59,0:15:02.97,Default,en,0,0,0,,I won't lose! I can't lose now!
+Dialogue: 0,0:15:00.59,0:15:02.97,Default,id,0,0,0,,Aku tidak akan kalah! Aku tidak boleh kalah!
+Comment: 0,0:15:03.44,0:15:06.74,Default,,0,0,0,,-今度は俺が助けるんだ！グラディオンを！\N-今度は僕が助けるんだ！グラディオンを！
+Dialogue: 0,0:15:03.44,0:15:06.74,Default,ko,0,0,0,,-이번엔 내가 구할 거야! 글라디온을!\N-이번엔 내가 구할 거야! 글라디온을!
+Dialogue: 0,0:15:03.44,0:15:06.74,Default,en,0,0,0,,-This time, I will save Gladion!\N-This time, I will save Gladion!
+Dialogue: 0,0:15:03.44,0:15:06.74,Default,id,0,0,0,,-Kali ini, akulah yang akan menyelamatkan Gladion!\N-Kali ini, akulah yang akan menyelamatkan Gladion!
+Comment: 0,0:15:15.84,0:15:16.85,Default,,0,0,0,,あれは、
+Dialogue: 0,0:15:15.84,0:15:16.85,Default,ko,0,0,0,,저건,
+Dialogue: 0,0:15:15.84,0:15:16.85,Default,en,0,0,0,,That's...
+Dialogue: 0,0:15:15.84,0:15:16.85,Default,id,0,0,0,,Ini...
+Comment: 0,0:15:42.19,0:15:45.84,Default,,0,0,0,,グラディオンが、ケント君の正義の心とシンクロした！
+Dialogue: 0,0:15:42.19,0:15:45.84,Default,ko,0,0,0,,글라디온이 켄토의 정의의 마음하고 동기화했어!
+Dialogue: 0,0:15:42.19,0:15:45.84,Default,en,0,0,0,,Gladion has synchronized with Kento's will of justice!
+Dialogue: 0,0:15:42.19,0:15:45.84,Default,id,0,0,0,,Gladion telah bersatu dengan jiwa kebenaran yang Kento miliki!
+Comment: 0,0:15:46.92,0:15:47.76,Default,,0,0,0,,グラディオン…
+Dialogue: 0,0:15:46.92,0:15:47.76,Default,ko,0,0,0,,글라디온...
+Dialogue: 0,0:15:46.92,0:15:47.76,Default,en,0,0,0,,Gladion...
+Dialogue: 0,0:15:46.92,0:15:47.76,Default,id,0,0,0,,Gladion...
+Comment: 0,0:15:52.82,0:15:58.34,Default,,0,0,0,,ケント君。今だ。君の正義の心で、グラディオンをよみがえらせるんだ！
+Dialogue: 0,0:15:52.82,0:15:58.34,Default,ko,0,0,0,,켄토. 지금이야. 네 정의의 마음으로 글라디온을 되살려!
+Dialogue: 0,0:15:52.82,0:15:58.34,Default,en,0,0,0,,Kento, now's the time. Revive Gladion with your will of justice!
+Dialogue: 0,0:15:52.82,0:15:58.34,Default,id,0,0,0,,Kento, ini saatnya. Bangkitkanlah Gladion dengan jiwa kebenaranmu!
+Comment: 0,0:15:58.34,0:15:59.66,Default,,0,0,0,,分かった、ショウさん！
+Dialogue: 0,0:15:58.34,0:15:59.66,Default,ko,0,0,0,,알았어, 쇼우!
+Dialogue: 0,0:15:58.34,0:15:59.66,Default,en,0,0,0,,Got it, Shou!
+Dialogue: 0,0:15:58.34,0:15:59.66,Default,id,0,0,0,,Aku mengerti, Shou!
+Comment: 0,0:16:02.47,0:16:04.03,Default,,0,0,0,,よみがえれ！グラディオン！
+Dialogue: 0,0:16:02.47,0:16:04.03,Default,ko,0,0,0,,살아나! 글라디온!
+Dialogue: 0,0:16:02.47,0:16:04.03,Default,en,0,0,0,,Revive, Gladion!
+Dialogue: 0,0:16:02.47,0:16:04.03,Default,id,0,0,0,,Bangkitlah, Gladion!
+Comment: 0,0:16:10.67,0:16:12.47,Default,,0,0,0,,そうはさせるか！
+Dialogue: 0,0:16:10.67,0:16:12.47,Default,ko,0,0,0,,그럴 수는 없지!
+Dialogue: 0,0:16:10.67,0:16:12.47,Default,en,0,0,0,,That won't happen!
+Dialogue: 0,0:16:10.67,0:16:12.47,Default,id,0,0,0,,Tidak akan kubiarkan!
+Comment: 0,0:16:30.32,0:16:31.70,Default,,0,0,0,,ケント君！
+Dialogue: 0,0:16:30.32,0:16:31.70,Default,ko,0,0,0,,켄토!
+Dialogue: 0,0:16:30.32,0:16:31.70,Default,en,0,0,0,,Kento!
+Dialogue: 0,0:16:30.32,0:16:31.70,Default,id,0,0,0,,Kento!
+Comment: 0,0:16:32.50,0:16:34.08,Default,,0,0,0,,ダイタスマッシュ！
+Dialogue: 0,0:16:32.50,0:16:34.08,Default,ko,0,0,0,,다이타 스매시!
+Dialogue: 0,0:16:32.50,0:16:34.08,Default,en,0,0,0,,Dita Smash!
+Dialogue: 0,0:16:32.50,0:16:34.08,Default,id,0,0,0,,Dita Smash!
+Comment: 0,0:16:36.31,0:16:37.78,Default,,0,0,0,,邪魔をするな！
+Dialogue: 0,0:16:36.31,0:16:37.78,Default,ko,0,0,0,,웃기지 마라!
+Dialogue: 0,0:16:36.31,0:16:37.78,Default,en,0,0,0,,Don't disturb me!
+Dialogue: 0,0:16:36.31,0:16:37.78,Default,id,0,0,0,,Kau jangan mengganggu!
+Comment: 0,0:16:41.70,0:16:44.68,Default,,0,0,0,,デリトロス、お前の好きにはさせない！
+Dialogue: 0,0:16:41.70,0:16:44.68,Default,ko,0,0,0,,데리트로스, 네가 원하는 건 절대 일어나지 않을 테다!
+Dialogue: 0,0:16:41.70,0:16:44.68,Default,en,0,0,0,,Deletloss, I won't let you do as you wish!
+Dialogue: 0,0:16:41.70,0:16:44.68,Default,id,0,0,0,,Deletloss, tidak akan kubiarkan kau bertindak sesukamu!
+Comment: 0,0:17:01.06,0:17:07.84,Default,,0,0,0,,グラディオンは世界のみんなを助けてくれた。今度は俺の番だ。俺がグラディオンを助けるんだ
+Dialogue: 0,0:17:01.06,0:17:07.84,Default,ko,0,0,0,,글라디온은 전세계의 모두를 구해 줬어. 이번엔 내 차례야. 내가 글라디온을 구할 거야.
+Dialogue: 0,0:17:01.06,0:17:07.84,Default,en,0,0,0,,Gladion has saved the children all over the world. Now it's my turn. I will save Gladion.
+Dialogue: 0,0:17:01.06,0:17:04.15,Default,id,0,0,0,,Gladion telah menyelamatkan anak-anak di seluruh dunia.
+Dialogue: 0,0:17:04.15,0:17:07.84,Default,id,0,0,0,,Sekarang adalah giliranku. Aku akan menyelamatkan Gladion.
+Comment: 0,0:17:16.60,0:17:21.73,Default,,0,0,0,,-頑張れ、ケント。・頑張って、ケント君！\N-兄ちゃん、しっかり！
+Dialogue: 0,0:17:16.60,0:17:20.31,Default,ko,0,0,0,,-힘내, 켄토.\N-힘내, 켄토!
+Dialogue: 0,0:17:16.60,0:17:20.31,Default,en,0,0,0,,-Do your best, Kento.\N-Keep fighting, Kento!
+Dialogue: 0,0:17:16.60,0:17:21.73,Default,id,0,0,0,,-Berjuanglah, Kento!\N-Berjuanglah, Kento!
+Dialogue: 0,0:17:20.31,0:17:21.73,Default,ko,0,0,0,,형, 힘내!
+Dialogue: 0,0:17:20.31,0:17:21.73,Default,en,0,0,0,,Hang in there, Bro!
+Dialogue: 0,0:17:20.31,0:17:21.73,Default,en,0,0,0,,Kakak, bertahanlah!
+Comment: 0,0:17:23.88,0:17:26.55,Default,,0,0,0,,待ってろよ。俺が絶対に助けるから
+Dialogue: 0,0:17:23.88,0:17:26.55,Default,ko,0,0,0,,기다려. 내가 반드시 구해줄 테니까.
+Dialogue: 0,0:17:23.88,0:17:26.55,Default,en,0,0,0,,Please hold on. I will definitely save you.
+Dialogue: 0,0:17:23.88,0:17:26.55,Default,id,0,0,0,,Tunggulah. Aku pasti akan menyelamatkanmu.
+Comment: 0,0:17:38.97,0:17:44.06,Default,,0,0,0,,しまった。ダメージ受けている今のケント君にグラディオンをよみがえらせることは…
+Dialogue: 0,0:17:38.97,0:17:44.06,Default,ko,0,0,0,,젠장. 글라디온을 부활시키기에 켄토가 피해를 너무 많이 입었어...
+Dialogue: 0,0:17:38.97,0:17:44.06,Default,en,0,0,0,,Damn. With such wound, Kento won't be able to revive Gladion.
+Dialogue: 0,0:17:38.97,0:17:44.06,Default,id,0,0,0,,Celaka. Kento sekarang sedang terluka. Dia tidak akan bisa membangkitkan Gladion.
+Comment: 0,0:17:48.07,0:17:48.84,Default,,0,0,0,,ショウさん！
+Dialogue: 0,0:17:48.07,0:17:48.84,Default,ko,0,0,0,,쇼우!
+Dialogue: 0,0:17:48.07,0:17:48.84,Default,en,0,0,0,,Shou!
+Dialogue: 0,0:17:48.07,0:17:48.84,Default,id,0,0,0,,Shou!
+Comment: 0,0:17:50.42,0:17:53.95,Default,,0,0,0,,さあ、結城ケント、グラディオンを渡してもらうか
+Dialogue: 0,0:17:50.42,0:17:53.95,Default,ko,0,0,0,,자, 유우키 켄토. 글라디온을 넘겨 보실까.
+Dialogue: 0,0:17:50.42,0:17:53.95,Default,en,0,0,0,,Now, Yuuki Kento. Give Gladion to me.
+Dialogue: 0,0:17:50.42,0:17:53.95,Default,id,0,0,0,,Nah, Yuuki Kento. Serahkan Gladion padahku.
+Comment: 0,0:17:53.95,0:17:59.84,Default,,0,0,0,,断る！俺は必ずグラディオンをよみがえらせる！そして、デリトロス、お前を倒す！
+Dialogue: 0,0:17:53.95,0:17:59.84,Default,ko,0,0,0,,절대! 난 반드시 글라디온을 되살려낼 거야! 그리고 데리트로스, 널 쓰러뜨릴 거야!
+Dialogue: 0,0:17:53.95,0:17:59.84,Default,en,0,0,0,,Never! I will definitely revive him! And then, we will defeat you!
+Dialogue: 0,0:17:53.95,0:17:59.84,Default,id,0,0,0,,Tidak akan! Aku pasti akan membangkitkan kembali Gladion! Lalu, Deletloss, kami akan mengalahkanmu!
+Comment: 0,0:18:00.52,0:18:03.71,Default,,0,0,0,,そうか。ならばここで滅びるが良い！
+Dialogue: 0,0:18:00.52,0:18:03.71,Default,ko,0,0,0,,그래? 그러면 꿈을 깨뜨려 주는 게 좋겠군!
+Dialogue: 0,0:18:00.52,0:18:03.71,Default,en,0,0,0,,Is that so? Alright, I will finish you off right here!
+Dialogue: 0,0:18:00.52,0:18:03.71,Default,id,0,0,0,,Baiklah. Kalau begitu, aku akan memusnahkanmu!
+Comment: 0,0:18:04.18,0:18:05.05,Default,,0,0,0,,グラディオン！
+Dialogue: 0,0:18:04.18,0:18:05.05,Default,ko,0,0,0,,글라디온!
+Dialogue: 0,0:18:04.18,0:18:05.05,Default,en,0,0,0,,Gladion!
+Dialogue: 0,0:18:04.18,0:18:05.05,Default,id,0,0,0,,Gladion!
+Comment: 0,0:18:09.83,0:18:18.63,Default,,0,0,0,,プラグイット、グラディオン！
+Dialogue: 0,0:18:09.83,0:18:18.63,Default,ko,0,0,0,,플러그 잇, 글라디온!
+Dialogue: 0,0:18:09.83,0:18:18.63,Default,en,0,0,0,,Plug It, Gladion!
+Dialogue: 0,0:18:09.83,0:18:18.63,Default,id,0,0,0,,Plug It, Gladion!
+Comment: 0,0:18:24.03,0:18:28.06,Default,,0,0,0,,なんということだ。百、千、万、三十万
+Dialogue: 0,0:18:24.03,0:18:28.06,Default,ko,0,0,0,,이게 대체 뭔 일인가. 백, 천, 만, 30만.
+Dialogue: 0,0:18:24.03,0:18:28.06,Default,en,0,0,0,,Unbelievable. A hundred, a thousand, ten thousand, 300 thousand.
+Dialogue: 0,0:18:24.03,0:18:28.06,Default,id,0,0,0,,Apa yang terjadi? Seratus, seribu, sepuluh ribu, tiga ratus ribu.
+Comment: 0,0:18:28.70,0:18:34.52,Default,,0,0,0,,グラディオンが助けた子供たち全員の思いが、世界中から集まった来ている！このダイバーランドに！
+Dialogue: 0,0:18:28.70,0:18:34.52,Default,ko,0,0,0,,글라디온이 구해준 아이들 모두의 소망이 전세계에서 이 다이버랜드로 모이고 있군!
+Dialogue: 0,0:18:28.70,0:18:34.52,Default,en,0,0,0,,The wishes from all children over the world who were saved by Gladion are gathered into Diverland!
+Dialogue: 0,0:18:28.70,0:18:34.52,Default,id,0,0,0,,Perasaan semua anak yang diselamatkan oleh Gladion akhirnya berkumpul di Diverland!
+Comment: 0,0:18:42.58,0:18:44.35,Default,,0,0,0,,何だこの声は
+Dialogue: 0,0:18:42.58,0:18:44.35,Default,ko,0,0,0,,이 목소리는 뭐지.
+Dialogue: 0,0:18:42.58,0:18:44.35,Default,en,0,0,0,,What can this voice be?
+Dialogue: 0,0:18:42.58,0:18:44.35,Default,id,0,0,0,,Suara apa ini?!
+Comment: 0,0:18:46.53,0:18:47.71,Default,,0,0,0,,感じる
+Dialogue: 0,0:18:46.53,0:18:47.71,Default,ko,0,0,0,,느껴져.
+Dialogue: 0,0:18:46.53,0:18:47.71,Default,en,0,0,0,,I can feel it.
+Dialogue: 0,0:18:46.53,0:18:47.71,Default,id,0,0,0,,Aku bisa merasakannya.
+Comment: 0,0:18:48.70,0:18:50.04,Default,,0,0,0,,感じるよ
+Dialogue: 0,0:18:48.70,0:18:50.04,Default,ko,0,0,0,,느껴진다.
+Dialogue: 0,0:18:48.70,0:18:50.04,Default,en,0,0,0,,I can definitely feel it.
+Dialogue: 0,0:18:48.70,0:18:50.04,Default,id,0,0,0,,Aku bisa merasakannya.
+Comment: 0,0:18:50.74,0:18:57.45,Default,,0,0,0,,これは心。みんなの正義の心。俺に力を貸してくれのか
+Dialogue: 0,0:18:50.74,0:18:57.45,Default,ko,0,0,0,,이건 마음. 모두의 정의의 마음. 나에게 힘을 빌려주고 있는 거구나.
+Dialogue: 0,0:18:50.74,0:18:57.45,Default,en,0,0,0,,This is the will-- the will of justice from everyone. They are lending their power to me.
+Dialogue: 0,0:18:50.74,0:18:57.45,Default,id,0,0,0,,Ini adalah perasaan-- perasaan kebenaran dari semua anak. Kalian meminjamiku kekuatan, ya?
+Comment: 0,0:18:57.97,0:18:59.14,Default,,0,0,0,,ありがとう。みんな
+Dialogue: 0,0:18:57.97,0:18:59.14,Default,ko,0,0,0,,고마워, 모두.
+Dialogue: 0,0:18:57.97,0:18:59.14,Default,en,0,0,0,,Thank you, everybody.
+Dialogue: 0,0:18:57.97,0:18:59.14,Default,id,0,0,0,,Terima kasih, semuanya.
+Comment: 0,0:19:04.58,0:19:06.53,Default,,0,0,0,,よみがえれ！グラディオン！
+Dialogue: 0,0:19:04.58,0:19:06.53,Default,ko,0,0,0,,부활해! 글라디온!
+Dialogue: 0,0:19:04.58,0:19:06.53,Default,en,0,0,0,,Revive, Gladion!
+Dialogue: 0,0:19:04.58,0:19:06.53,Default,id,0,0,0,,Bangkitlah, Gladion!
+Comment: 0,0:19:13.42,0:19:14.52,Default,,0,0,0,,グラディオン！
+Dialogue: 0,0:19:13.42,0:19:14.52,Default,ko,0,0,0,,글라디온!
+Dialogue: 0,0:19:13.42,0:19:14.52,Default,en,0,0,0,,Gladion!
+Dialogue: 0,0:19:13.42,0:19:14.52,Default,id,0,0,0,,Gladion!
+Comment: 0,0:19:46.04,0:19:48.64,Default,,0,0,0,,よくやった！結城ケント！
+Dialogue: 0,0:19:46.04,0:19:48.64,Default,ko,0,0,0,,잘 했다! 유우키 켄토!
+Dialogue: 0,0:19:46.04,0:19:48.64,Default,en,0,0,0,,Great job, Yuuki Kento!
+Dialogue: 0,0:19:46.04,0:19:48.64,Default,id,0,0,0,,Kerja bagus, Yuuki Kento!
+Comment: 0,0:19:48.64,0:19:51.40,Default,,0,0,0,,-よっしゃ！\N-やった兄ちゃん！
+Dialogue: 0,0:19:48.64,0:19:51.40,Default,ko,0,0,0,,-좋아!\N-역시 형이야!
+Dialogue: 0,0:19:48.64,0:19:51.40,Default,en,0,0,0,,-Great!\N-Brother did it!
+Dialogue: 0,0:19:48.64,0:19:51.40,Default,id,0,0,0,,-Bagus!\N-Kakak berhasil!
+Comment: 0,0:19:51.40,0:19:53.44,Default,,0,0,0,,-おう！\N-グラディオン！
+Dialogue: 0,0:19:51.40,0:19:53.44,Default,ko,0,0,0,,-오오!\N-글라디온!
+Dialogue: 0,0:19:51.40,0:19:53.44,Default,en,0,0,0,,-Awesome!\N-Gladion!
+Dialogue: 0,0:19:51.40,0:19:53.44,Default,id,0,0,0,,-Dia berhasil!\N-Gladion!
+Comment: 0,0:19:54.67,0:19:59.85,Default,,0,0,0,,ケント。ありがとう。君のおかけで、私は再生することが出来た
+Dialogue: 0,0:19:54.67,0:19:59.85,Default,ko,0,0,0,,켄토. 고마워. 네 덕분에 다시 살아날 수 있었다.
+Dialogue: 0,0:19:54.67,0:19:59.85,Default,en,0,0,0,,Kento, thank you. I could come back because of you.
+Dialogue: 0,0:19:54.67,0:19:59.85,Default,id,0,0,0,,Kento, terima kasih. Berkat bantuanmu, aku bisa bangkit kembali.
+Comment: 0,0:20:00.61,0:20:03.70,Default,,0,0,0,,俺だけじゃないよ。世界中のみんなのおかげさ！
+Dialogue: 0,0:20:00.61,0:20:03.70,Default,ko,0,0,0,,나뿐만이 아니야. 전세계의 아이들 모두가 응원해준 덕분이야!
+Dialogue: 0,0:20:00.61,0:20:03.70,Default,en,0,0,0,,It's not only me who helped. This is thanks to children all over the world!
+Dialogue: 0,0:20:00.61,0:20:03.70,Default,id,0,0,0,,Bukan cuma itu saja. Ini adalah berkat anak-anak di seluruh dunia!
+Comment: 0,0:20:04.28,0:20:10.57,Default,,0,0,0,,世界の子供たちよ、ありがとう。君たちからもらったこの命、決して無駄にはしない
+Dialogue: 0,0:20:04.28,0:20:10.57,Default,ko,0,0,0,,세계의 아이들이여, 고맙다. 너희에게 받은 생명, 결코 헛되이 쓰지 않겠다.
+Dialogue: 0,0:20:04.28,0:20:10.57,Default,en,0,0,0,,Children from the world, thank you. I will not waste the life I've received from you.
+Dialogue: 0,0:20:04.28,0:20:10.57,Default,id,0,0,0,,Terima kasih, anak-anak di seluruh dunia. Jiwa yang kudapatkan dari kalian tidak akan kusia-siakan.
+Comment: 0,0:20:14.88,0:20:16.03,Default,,0,0,0,,ダイタリオン！
+Dialogue: 0,0:20:14.88,0:20:16.03,Default,ko,0,0,0,,다이탈리온!
+Dialogue: 0,0:20:14.88,0:20:16.03,Default,en,0,0,0,,Ditalion!
+Dialogue: 0,0:20:14.88,0:20:16.03,Default,id,0,0,0,,Ditalion!
+Comment: 0,0:20:17.68,0:20:19.15,Default,,0,0,0,,ケント！ウェブダイブだ！
+Dialogue: 0,0:20:17.68,0:20:19.15,Default,ko,0,0,0,,켄토! 웹다이브해라!
+Dialogue: 0,0:20:17.68,0:20:19.15,Default,en,0,0,0,,Kento! Webdive!
+Dialogue: 0,0:20:17.68,0:20:19.15,Default,id,0,0,0,,Kento! Webdive!
+Comment: 0,0:20:20.59,0:20:22.21,Default,,0,0,0,,ウェブダイブ！グラディオン！
+Dialogue: 0,0:20:20.59,0:20:22.21,Default,ko,0,0,0,,웹다이브! 글라디온!
+Dialogue: 0,0:20:20.59,0:20:22.21,Default,en,0,0,0,,Webdive! Gladion!
+Dialogue: 0,0:20:20.59,0:20:22.21,Default,id,0,0,0,,Webdive! Gladion!
+Comment: 0,0:20:21.96,0:20:25.18,GladionSing-R2,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k20}ki{\k17}mi {\k18}ga {\k15}o{\k20}mo{\k41}u {\k34}yu{\k16}me {\k13}wa {\k19}i{\k20}tsu {\k59}mo
+Comment: 0,0:20:24.88,0:20:28.07,GladionSing-R,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k19}fu{\k16}ka{\k22}i {\k15}ko{\k20}do{\k35}ku {\k19}no {\k32}na{\k22}ka {\k89}de
+Comment: 0,0:20:27.77,0:20:33.86,GladionSing-R2,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k21}na{\k19}ni {\k17}yo{\k18}ri {\k13}mo {\k20}tsu{\k18}yo{\k81}ku {\k38}ka{\k13}ga{\k21}ya{\k20}ku {\k19}ke{\k33}re{\k228}do
+Comment: 0,0:20:33.56,0:20:36.77,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k23}hi{\k18}to{\k14}ri {\k20}ja{\k22}na{\k25}i {\k49}so{\k11}no {\k22}se{\k13}na{\k24}ka {\k50}wo
+Comment: 0,0:20:36.47,0:20:39.63,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k25}ma{\k18}mo{\k12}ri {\k23}tsu{\k24}du{\k31}ke {\k18}te {\k37}i{\k22}ta{\k76}i
+Comment: 0,0:20:39.33,0:20:45.51,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k23}shi{\k18}zu{\k25}ka {\k19}na{\k15}ru {\k16}to{\k20}ki {\k77}wo {\k33}to{\k20}mo {\k19}ni {\k26}ka{\k9}n{\k41}ji {\k227}te
+Comment: 0,0:20:45.21,0:20:51.32,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k39}na{\k14}ga{\k86}su {\k43}na{\k21}mi{\k54}da {\k37}no {\k33}i{\k18}mi {\k236}wo
+Comment: 0,0:20:51.02,0:21:00.05,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k41}mu{\k18}ne {\k88}ni {\k38}da{\k21}i{\k87}te {\k16}a{\k58}shi{\k22}ta {\k53}e {\k25}ha{\k29}shi{\k377}re
+Comment: 0,0:20:37.65,0:20:40.41,Default,,0,0,0,,グラディオン。スーパアックスノーヴぁだ！
+Dialogue: 0,0:20:37.65,0:20:40.41,Default,ko,0,0,0,,글라디온. 슈퍼 액스 노바다!
+Dialogue: 0,0:20:37.65,0:20:40.41,Default,en,0,0,0,,Gladion, let's use Super Axe Nova!
+Dialogue: 0,0:20:37.65,0:20:40.41,Default,id,0,0,0,,Gladion, kita gunakan Super Axe Nova!
+Comment: 0,0:20:40.41,0:20:43.68,Default,,0,0,0,,その体とは、無理だ！後は私に任せろ！
+Dialogue: 0,0:20:40.41,0:20:43.68,Default,ko,0,0,0,,그 몸으로는 무리다! 나머지는 나에게 맡겨라!
+Dialogue: 0,0:20:40.41,0:20:43.68,Default,en,0,0,0,,It's too dangerous with that body! Just leave the rest to me!
+Dialogue: 0,0:20:40.41,0:20:43.68,Default,id,0,0,0,,Mustahil dengan kondisimu yang seperti itu! Selanjutnya serahkan saja padaku!
+Comment: 0,0:20:43.68,0:20:50.00,Default,,0,0,0,,心配するな。決めたのだ。命ある限り、グラディオン、お前と共に戦うと！
+Dialogue: 0,0:20:43.68,0:20:50.00,Default,ko,0,0,0,,걱정 마라. 결심했다. 이 목숨을 걸고 글라디온, 너와 함께 싸우겠다고!
+Dialogue: 0,0:20:43.68,0:20:50.00,Default,en,0,0,0,,Do not worry. I've decided. As long as I'm still alive, I will fight together with you, Gladion!
+Dialogue: 0,0:20:43.68,0:20:50.00,Default,id,0,0,0,,Jangan khawatir. Selama aku masih bernyawa, aku akan terus bertarung bersamamu, Gladion!
+Comment: 0,0:20:50.00,0:20:53.51,Default,,0,0,0,,-よし！行くぞ！ノヴァーモードだ！\N-おう！
+Dialogue: 0,0:20:50.00,0:20:53.51,Default,ko,0,0,0,,-그렇다면야! 노바 모드로!\N-좋은 선택이다!
+Dialogue: 0,0:20:50.00,0:20:53.51,Default,en,0,0,0,,-Then let's do this! To Nova Mode!\N-Understood!
+Dialogue: 0,0:20:50.00,0:20:53.51,Default,id,0,0,0,,-Baik! Ayo kita lakukan! Nova Mode!\N-Iya!
+Comment: 0,0:20:53.98,0:20:57.18,Default,,0,0,0,,ウェブチェンジ！ダイタリオン、アタックモード！
+Dialogue: 0,0:20:53.98,0:20:57.18,Default,ko,0,0,0,,웹체인지! 다이탈리온, 어택 모드!
+Dialogue: 0,0:20:53.98,0:20:57.18,Default,en,0,0,0,,Webchange! Ditalion, Attack Mode!
+Dialogue: 0,0:20:53.98,0:20:57.18,Default,id,0,0,0,,Webchange! Ditalion, Attack Mode!
+Comment: 0,0:20:59.75,0:21:05.84,GladionSing-R2,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k37}ni{\k38}ge{\k29}da{\k43}shi{\k36}ta{\k37}ku{\k35}na{\k43}i {\k34}i{\k33}ma {\k39}ga {\k23}a{\k152}ru
+Comment: 0,0:21:05.54,0:21:11.70,GladionSing-R,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k43}tsu{\k33}ra{\k37}nu{\k38}ki {\k42}to{\k23}o{\k46}shi{\k34}te {\k59}ki{\k21}mi {\k210}wo
+Comment: 0,0:21:08.05,0:21:10.19,Default,,0,0,0,,グラディオン！ノヴァーモード！
+Dialogue: 0,0:21:08.05,0:21:10.19,Default,ko,0,0,0,,글라디온! 노바 모드!
+Dialogue: 0,0:21:08.05,0:21:10.19,Default,en,0,0,0,,Gladion, Nova Mode!
+Dialogue: 0,0:21:08.05,0:21:10.19,Default,id,0,0,0,,Gladion, Nova Mode!
+Comment: 0,0:21:11.40,0:21:16.99,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k39}chi{\k39}ka{\k34}ra {\k33}to {\k38}tsu{\k27}yo{\k48}sa {\k33}wa {\k38}chi{\k42}ga{\k18}u{\k34}n{\k106}da
+Comment: 0,0:21:16.69,0:21:25.92,GladionSing-R3,,0,0,0,karaoke,{\pos(10,40)\fad(300,300)\k30}{\k24}ki{\k18}mi {\k19}yo {\k18}i{\k67}ma {\k21}tsu{\k21}ka{\k14}mi{\k22}to{\k63}re {\k26}tsu{\k14}ba{\k24}sa {\k199}wo {\k40}hi{\k30}ro{\k20}ge{\k253}te
+Comment: 0,0:21:24.69,0:21:27.01,Default,,0,0,0,,スーパーアックスノーヴぁ！
+Dialogue: 0,0:21:24.69,0:21:27.01,Default,ko,0,0,0,,슈퍼 액스 노바!
+Dialogue: 0,0:21:24.69,0:21:27.01,Default,en,0,0,0,,Super Axe Nova!
+Dialogue: 0,0:21:24.69,0:21:27.01,Default,id,0,0,0,,Super Axe Nova!
+Comment: 0,0:21:35.28,0:21:36.28,Default,,0,0,0,,やった！
+Dialogue: 0,0:21:35.28,0:21:36.28,Default,ko,0,0,0,,해냈다!
+Dialogue: 0,0:21:35.28,0:21:36.28,Default,en,0,0,0,,We did it!
+Dialogue: 0,0:21:35.28,0:21:36.28,Default,id,0,0,0,,Berhasil!
+Comment: 0,0:21:48.90,0:21:50.46,Default,,0,0,0,,カロン、気が付いたか
+Dialogue: 0,0:21:48.90,0:21:50.46,Default,ko,0,0,0,,카론, 일어났구나.
+Dialogue: 0,0:21:48.90,0:21:50.46,Default,en,0,0,0,,Finally woke up, Karon?
+Dialogue: 0,0:21:48.90,0:21:50.46,Default,id,0,0,0,,Karon, kau sudah sadar, ya?
+Comment: 0,0:21:50.46,0:21:51.97,Default,,0,0,0,,ケント。および
+Dialogue: 0,0:21:50.46,0:21:51.97,Default,ko,0,0,0,,켄토. 끄응.
+Dialogue: 0,0:21:50.46,0:21:51.97,Default,en,0,0,0,,Kento.
+Dialogue: 0,0:21:50.46,0:21:51.97,Default,id,0,0,0,,Kento.
+Comment: 0,0:21:52.65,0:21:57.31,Default,,0,0,0,,カロン、ここで何していたピョッコ？何かえらい目にあってた気が
+Dialogue: 0,0:21:52.65,0:21:57.31,Default,ko,0,0,0,,카론, 여기서 뭐 했었어용? 악몽을 꾼 기분이야뾰꼬.
+Dialogue: 0,0:21:52.65,0:21:57.31,Default,en,0,0,0,,What did Karon do here-{\i1}pyoko{\i0}? It feels like I just had something really amazing-{\i1}pyoko{\i0}.
+Dialogue: 0,0:21:52.65,0:21:57.31,Default,id,0,0,0,,Apa yang Karon lakukan di sini-{\i1}pyoko{\i0}? Rasanya seperti baru mengalami sesuatu yang luar biasa.
+Comment: 0,0:21:59.11,0:22:03.12,Default,,0,0,0,,ケント。なんか知っているピョッコか。教えるピョッコ！
+Dialogue: 0,0:21:59.11,0:22:03.12,Default,ko,0,0,0,,켄토. 뭐 아는 거 있지뾰꼬! 알려줘뾰꼬!
+Dialogue: 0,0:21:59.11,0:22:03.12,Default,en,0,0,0,,Kento, you must have known something about this-{\i1}pyoko{\i0}. Tell me-{\i1}pyoko{\i0}!
+Dialogue: 0,0:21:59.11,0:22:03.12,Default,id,0,0,0,,Kento, apa kau tahu sesuatu-{\i1}pyoko{\i0}? Ayo beritahu aku-{\i1}pyoko{\i0}!
+Comment: 0,0:22:04.78,0:22:07.54,Default,,0,0,0,,意地悪しないで、教えるピョッコ！
+Dialogue: 0,0:22:04.78,0:22:07.54,Default,ko,0,0,0,,전혀 괜찮지 않으니까 알려줘뾰꼬!
+Dialogue: 0,0:22:04.78,0:22:07.54,Default,en,0,0,0,,Stop teasing and do tell me-{\i1}pyoko{\i0}!
+Dialogue: 0,0:22:04.78,0:22:07.54,Default,id,0,0,0,,Ayo, beritahu aku-{\i1}pyoko{\i0}!
+Comment: 0,0:22:14.54,0:22:17.47,Default,,0,0,0,,やった！マジカルステーションが再生したぞ！
+Dialogue: 0,0:22:14.54,0:22:17.47,Default,ko,0,0,0,,좋았어! 매지컬 스테이션이 돌아왔다!
+Dialogue: 0,0:22:14.54,0:22:17.47,Default,en,0,0,0,,Great! Magical Station is back!
+Dialogue: 0,0:22:14.54,0:22:17.47,Default,id,0,0,0,,Berhasil! Magical Station muncul kembali!
+Comment: 0,0:22:22.68,0:22:26.83,Default,,0,0,0,,そうか！マジカルステーションも元に戻ったんだ！よかった！
+Dialogue: 0,0:22:22.68,0:22:26.83,Default,ko,0,0,0,,그렇구나! 매지컬 스테이션도 원래대로 돌아왔으니 다행이다!
+Dialogue: 0,0:22:22.68,0:22:26.83,Default,en,0,0,0,,I see! Good to know that Magical Station has been recovered too! Thank goodness!
+Dialogue: 0,0:22:22.68,0:22:26.83,Default,id,0,0,0,,Begitu, ya! Jadi Magical Station sudah kembali seperti semula! Syukurlah!
+Comment: 0,0:22:27.50,0:22:34.90,Default,,0,0,0,,ダイタリオンも加えて、ついに13体すべてのウェブナイトがそろった。これで、マジカルゲートの守りは完璧だ
+Dialogue: 0,0:22:27.50,0:22:34.90,Default,ko,0,0,0,,다이탈리온도 돌아와서 마침내 13 웹나이트 모두가 있게 됐어. 이렇게 매지컬 게이트의 보안은 완벽해졌다.
+Dialogue: 0,0:22:27.50,0:22:34.90,Default,en,0,0,0,,Added with Ditalion, all 13 Webknights are finally here. Magical Gate is now perfectly secured.
+Dialogue: 0,0:22:27.50,0:22:32.08,Default,id,0,0,0,,Dengan ditambah Ditalion, akhirnya ketigabelas Webknight telah terkumpul.
+Dialogue: 0,0:22:32.08,0:22:34.90,Default,id,0,0,0,,Dengan ini, penjagaan Magical Gate akan sempurna.
+Comment: 0,0:22:37.14,0:22:42.46,Default,,0,0,0,,よし！待ってろよ。デリトロス！お前は俺たちが必ず倒す！
+Dialogue: 0,0:22:37.14,0:22:42.46,Default,ko,0,0,0,,자, 기다려라, 데리트로스! 넌 우리가 꼭 쓰러뜨리겠어!
+Dialogue: 0,0:22:37.14,0:22:42.46,Default,en,0,0,0,,Now you just wait, Deletloss! We will definitely take you down!
+Dialogue: 0,0:22:37.14,0:22:42.46,Default,id,0,0,0,,Nah, tunggu saja, Deletloss! Kami pasti akan mengalahkanmu!
+Comment: 0,0:22:43.96,0:22:49.36,FightersRm-1,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord4\1ce7bee1\3a00)\t($start,$end,0.3,\blur4\3c008FFF)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:22:43.96,0:22:49.36,FightersRm-2,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord4\1ce7bee1\3a00)\t($start,$end,0.3,\blur4\3c3643f4)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:22:43.96,0:22:49.36,FightersRm-3,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord4\1ce7bee1\3a00)\t($start,$end,0.3,\blur4\3c388e3c)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:22:43.96,0:22:49.36,FightersRm-4,,0,0,0,template line keeptags,{\r\t(!$start-40!,$start,0.3,\bord4\1ce7bee1\3a00)\t($start,$end,0.3,\blur4\3cb5513f)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:22:43.96,0:22:49.36,FightersRm-Ins,,0,0,0,template line keeptags,{\r\pos(10,40)\t(!$start-40!,$start,0.3,\bord4\1ce7bee1\3a00)\t($start,$end,0.3,\blur4\3cb5513f)\t($end,!$end+1000!,1,\bord2\1cFFFFFF)}
+Comment: 0,0:22:44.33,0:22:49.73,FightersRm-1,,0,0,0,karaoke,{\fad(900,900)\k64}{\k50}WE{\k34}'RE {\k40}FIGH{\k352}TERS
+Comment: 0,0:22:51.17,0:22:56.12,FightersRm-1,,0,0,0,karaoke,{\fad(900,900)\k46}{\k45}WE{\k38}'RE {\k41}FIGH{\k325}TERS
+Comment: 0,0:22:57.55,0:23:05.87,FightersRm-1,,0,0,0,karaoke,{\k89}{\fad(900,300)}{\k17}i{\k21}ma {\k32}ka{\k25}sa{\k30}ne{\k40}ta {\k21}te {\k19}no {\k42}hi{\k21}ra {\k112}ni {\k3330}{\r\alphaFF}yuuki wo atsume
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(116,188)\an8}Screenplay
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(267,188)}Kubota Masashi
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(116,258)\an8}Storyboarding
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(267,258)}Takata Atsushi
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(116,308)\an8}Staging
+Dialogue: 0,0:22:47.38,0:22:51.17,CreditED,,0,0,0,,{\fad(400,400)\pos(267,308)}Ishida Hiroshi
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(71,88)}Voice Actor
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(89,132)}Yuuki Kento
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(89,180)}Gladion
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(89,253)}Arisugawa Aoi
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(89,302)}Asaba Naoki
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(319,302)}Takeuchi Junko
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(319,132)}Kobayashi Yumiko
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(319,180)}Sugita Tomokazu
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(319,253)}Kikuchi Shiho
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(89,350)}Kurachi Shou
+Dialogue: 0,0:22:51.40,0:22:55.16,CreditED,,0,0,0,,{\fad(400,400)\pos(319,350)}Kaida Yuki
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(71,116)}Voice Actor
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(89,163)}Yuuki Kaito
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(321,163)}Takagi Reiko
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(89,212)}Arisugawa Professor
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(321,212)}Tobita Nobuo
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(89,262)}English Boy
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(321,262)}Makino Yoshina
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(89,312)}Russian Girl
+Dialogue: 0,0:22:55.40,0:22:59.20,CreditED,,0,0,0,,{\fad(400,400)\pos(321,312)}Kurokawa Nami
+Dialogue: 0,0:22:59.40,0:23:03.10,CreditED,,0,0,0,,{\fad(400,400)\pos(71,148)}Voice Actor
+Dialogue: 0,0:22:59.40,0:23:03.10,CreditED,,0,0,0,,{\fad(400,400)\pos(89,195)}Jaguaron
+Dialogue: 0,0:22:59.40,0:23:03.10,CreditED,,0,0,0,,{\fad(400,400)\pos(321,195)}Kawashima Tokuyoshi
+Dialogue: 0,0:22:59.40,0:23:03.10,CreditED,,0,0,0,,{\fad(400,400)\pos(89,240)}Deletloss
+Dialogue: 0,0:22:59.40,0:23:03.10,CreditED,,0,0,0,,{\fad(400,400)\pos(321,240)}Fumihiko Tachiki
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(63,71)}Ending Theme
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(67,187)}Lyrics
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(152,187)}Oikawa Neko
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(66,226)}Composer
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(152,226)}Suzuki Kisaburo
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(66,267)}Arranger
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(152,267)}Kouno Yougo
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(66,306)}Singer
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(152,306)}Kageyama Hironobu
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(318,71)}Insert Song
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(291,115)}Dear Friend, To the Far Side of Dream
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(336,148)}: Gladion's Theme
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(321,187)}Lyrics
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(407,187)}Sugita Tomokazu
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(321,226)}Composer
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(407,226)}Daimon Kazuya
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(321,267)}Arranger
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(407,267)}Daimon Kazuya
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(321,306)}Singer
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(459,338)\an8}(Sugita Tomokazu)
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(407,303)}Gladion
+Dialogue: 0,0:23:46.79,0:23:49.92,CreditED,,0,0,0,,{\fad(400,400)\pos(253,383)}Columbia Japan
+Dialogue: 0,0:23:50.66,0:23:54.46,CreditED,,0,0,0,,{\fad(450,450)\pos(56,214)}Production Cooperation
+Dialogue: 0,0:23:50.66,0:23:54.46,CreditED,,0,0,0,,{\fad(450,450)\pos(56,275)}Animation Production
+Dialogue: 0,0:23:50.66,0:23:54.46,CreditED,,0,0,0,,{\fad(450,450)\pos(258,214)}AEON (We've)
+Dialogue: 0,0:23:50.66,0:23:54.46,CreditED,,0,0,0,,{\fad(450,450)\pos(56,344)}Subtitle
+Dialogue: 0,0:23:50.66,0:23:54.46,CreditED,,0,0,0,,{\fad(450,450)\pos(258,344)}Subdiver
+Dialogue: 0,0:23:54.76,0:24:02.33,CreditED,,0,0,0,,{\fad(400,400)\pos(89,257)\an8}Production
+Comment: 0,0:22:57.55,0:23:05.87,FightersRm-2,,0,0,0,karaoke,{\fad(900,300)\r\alphaFF}ima kasaneta te no hira ni {\k469}{\k52}yu{\k37}u{\k45}ki {\k40}wo {\k36}a{\k20}tsu{\k102}me
+Comment: 0,0:23:05.57,0:23:11.68,FightersRm-2,,0,0,0,karaoke,{\k50}{\fad(300,300)}{\k16}a{\k24}su {\k25}e {\k41}no {\k45}DO{\k32}A {\k27}wo {\k26}a{\k34}ke{\k146}ru{\k145}
+Comment: 0,0:23:11.38,0:23:19.08,FightersRm-2,,0,0,0,karaoke,{\fad(300,300)}{\k31}{\k20}a{\k17}no {\k40}yo{\k26}zo{\k19}ra {\k44}ni {\k17}u{\k24}ka{\k42}n{\k20}de{\k118}ru {\k322}{\alphaFF}hoshikuzu no you ni
+Comment: 0,0:23:11.38,0:23:19.08,FightersRm-3,,0,0,0,karaoke,{\fad(300,300)}{\r\alphaFF}ano yozora ni ukanderu {\k418}{\k30}ho{\k56}shi{\k31}ku{\k43}zu {\k39}no {\k20}yo{\k19}u {\k84}ni
+Comment: 0,0:23:18.78,0:23:25.75,FightersRm-3,,0,0,0,karaoke,{\k41}{\fad(300,300)}{\k31}bo{\k22}ku{\k21}ta{\k46}chi {\k36}mo {\k19}ka{\k26}ga{\k19}ya{\k37}ke{\k24}ru {\k212}sa{\k163}
+Comment: 0,0:23:25.45,0:23:32.54,FightersRm-4,,0,0,0,karaoke,{\fad(300,300)}{\k41}{\k57}do{\k40}n{\k34}na {\k69}yu{\k21}me {\k113}mo {\k47}ki{\k44}t{\k32}to {\k71}su{\k23}be{\k87}te
+Comment: 0,0:23:32.24,0:23:38.64,FightersRm-1,,0,0,0,karaoke,{\fad(300,300)}{\k26}{\k45}sin{\k27}ji{\k99}ru {\k24}ko{\k21}to {\k23}ka{\k103}ra {\k21}ha{\k20}ji{\k21}ma{\k39}ru {\k141}sa
+Comment: 0,0:23:38.34,0:23:45.40,FightersRm-2,,0,0,0,karaoke,{\fad(300,300)}{\k44}{\k47}ko{\k36}e{\k16}te {\k23}yu{\k25}ko{\k140}u {\k37}WEB{\k93}DI{\k215}VER
+Comment: 0,0:23:45.10,0:23:51.71,FightersRm-4,,0,0,0,karaoke,{\fad(300,300)}{\k27}{\k23}to{\k23}ki {\k20}no {\k26}ka{\k14}na{\k16}ta {\k28}ma{\k138}de {\k316}{\alphaFF}FOR FUTURE
+Comment: 0,0:23:45.10,0:23:51.71,FightersRm-3,,0,0,0,karaoke,{\fad(300,300)}{\alphaFF}toki no kanata made {\k315}{\k44}FOR {\k86}FU{\k186}TURE
+Comment: 0,0:23:51.41,0:23:57.72,FightersRm-3,,0,0,0,karaoke,{\fad(300,300)}{\k57}{\k57}a{\k75}ra{\k63}ta {\k58}na {\k22}chi{\k22}ka{\k43}i {\k55}ka{\k54}wa{\k73}shi{\k52}te
+Comment: 0,0:23:57.52,0:24:02.46,FightersRm-3,,0,0,0,karaoke,{\k20}{\k54}{\fad(300,900)}WE{\k31}'RE {\k52}FIGH{\k337}TERS
+Dialogue: 0,0:23:50.66,0:23:54.46,SubCredits,,0,0,0,,{\pos(117,353)\fad(450,450)\fnMeiryo\b0\fs48\fscx85}ファン字幕
+Dialogue: 0,0:23:50.66,0:23:54.46,SubCredits,,0,0,0,,{\pos(351,353)\fad(450,450)\fnMeiryo\b0\fs48\fscx100}サブダイバー
+Dialogue: 0,0:23:54.68,0:23:58.48,SubCredits,,0,0,0,,{\pos(307,382)\fad(450,450)}Thank you for watching!
+Dialogue: 0,0:24:05.27,0:24:08.27,NextEpisode,en,0,0,0,,{\pos(319,293)}Preview for Next Episode
+Comment: 0,0:24:09.31,0:24:10.90,Default,,0,0,0,,お帰り、グラディオン！
+Dialogue: 0,0:24:09.31,0:24:10.90,Default,ko,0,0,0,,돌아왔구나, 글라디온!
+Dialogue: 0,0:24:09.31,0:24:10.90,Default,en,0,0,0,,Welcome back, Gladion!
+Dialogue: 0,0:24:09.31,0:24:10.90,Default,id,0,0,0,,Selamat datang kembali, Gladion!
+Comment: 0,0:24:10.90,0:24:13.62,Default,,0,0,0,,ついに、ウェブナイトが全員にかたになった
+Dialogue: 0,0:24:10.90,0:24:13.62,Default,ko,0,0,0,,결국엔 모든 웹나이트가 돌아왔어.
+Dialogue: 0,0:24:10.90,0:24:13.62,Default,en,0,0,0,,All Webknights are back at last.
+Dialogue: 0,0:24:10.90,0:24:13.62,Default,id,0,0,0,,Akhirnya, semua Webknight telah kembali.
+Comment: 0,0:24:13.62,0:24:17.31,Default,,0,0,0,,だけど、平和を取り戻したマジカルゲートに再び変が、
+Dialogue: 0,0:24:13.62,0:24:17.31,Default,ko,0,0,0,,그런데 평화를 되찾은 매지컬 게이트에 또 다시 이변이 일어나서,
+Dialogue: 0,0:24:13.62,0:24:17.31,Default,en,0,0,0,,But, another incident happens inside the supposed-peaceful Magical Gate.
+Dialogue: 0,0:24:13.62,0:24:17.31,Default,id,0,0,0,,Tetapi, terjadi keanehan di Magical Gate yang semestinya telah mendapatkan kedamaian.
+Comment: 0,0:24:17.82,0:24:21.84,Default,,0,0,0,,そして、俺たちの前にデリトロスの戦士、リュートが現れた
+Dialogue: 0,0:24:17.82,0:24:21.84,Default,ko,0,0,0,,우리 앞에 데리트로스의 전사 류토가 나타나.
+Dialogue: 0,0:24:17.82,0:24:21.84,Default,en,0,0,0,,And Deletloss' warrior, Ryuto, appears in front of us.
+Dialogue: 0,0:24:17.82,0:24:21.84,Default,id,0,0,0,,Dan di hadapan kami, muncullah prajurit Deletloss, Ryuto.
+Comment: 0,0:24:22.44,0:24:26.01,Default,,0,0,0,,新たな敵が出現ふととに？、俺たちの冒険の旅が始まる
+Dialogue: 0,0:24:22.44,0:24:26.01,Default,ko,0,0,0,,새로운 적이 출현하고, 우리 모험이 새로 시작해.
+Dialogue: 0,0:24:22.44,0:24:26.01,Default,en,0,0,0,,A new enemy appears and our new adventure begins.
+Dialogue: 0,0:24:22.44,0:24:26.01,Default,id,0,0,0,,Musuh baru telah muncul, dan petualangan baru kami dimulai.
+Comment: 0,0:24:26.56,0:24:28.78,Default,,0,0,0,,次回、電脳冒険記ウェブダイバー！
+Dialogue: 0,0:24:26.56,0:24:28.78,Default,ko,0,0,0,,전뇌모험기 웹다이버의 다음 이야기!
+Dialogue: 0,0:24:26.56,0:24:28.78,Default,en,0,0,0,,Next episode of {\i1}Dennou Boukenki Webdiver{\i0}!
+Dialogue: 0,0:24:26.56,0:24:28.78,Default,id,0,0,0,,Di episode {\i1}Dennou Boukenki Webdiver{\i0} selanjutnya!
+Comment: 0,0:24:28.78,0:24:32.28,Default,ref,0,0,0,,[[=0.tonextep]]
+Comment: 0,0:24:32.40,0:24:35.30,TitleCard,,0,0,0,,next
+Dialogue: 0,0:24:35.30,0:24:40.30,Thx4Watching,,0,0,0,,Thanks for watching! - Subdiver\NSee you at {\t(0,500,\1cFFDDBB\shad2)}http://subdiver.soreepeong.com/{\1cffffff\shad0} !
